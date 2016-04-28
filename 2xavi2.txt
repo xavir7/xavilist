@@ -427,13 +427,13 @@ http://iptvbox.noip.us:9998/live/atik/atik/623.m3u8
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://tipsmagicas.com/iptv/logos/ESPN+%20(2).png" group-title="DEPORTES",ESPN+
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://tipsmagicas.com/iptv/logos/ESPN+%20(2).png" group-title="DEPORTES",ESPN+ HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN
 http://158.69.127.167:7676/hls/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN US
 http://158.69.127.167:7676/hls/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png" group-title="DEPORTES",ESPNU
@@ -443,13 +443,13 @@ http://158.69.127.167:7676/hls/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="espn-2.png",ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="espn-2.png",ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 US
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="espn-3.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="espn-3.png",ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 http://104.236.46.32:8081/live/sky96/1Foxsports111/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
