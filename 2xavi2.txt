@@ -432,8 +432,8 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN
 http://158.69.127.167:7676/hls/ESPN.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN HD
-
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN
+http://premium-mxl-iptv.cf/one/kodi:1522499c912ce92b5649bdb07a943473747940a0/35/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN US
 http://158.69.127.167:7676/hls/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png" group-title="DEPORTES",ESPNU
