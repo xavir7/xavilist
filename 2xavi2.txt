@@ -20,7 +20,7 @@ http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5
 http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="LOCALES" tvg-logo="foro-tv-HD.png",Foro TV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7
@@ -488,16 +488,18 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=ip%3D189.212.225.137~st%3D1460612791~exp%3D1460612911~acl%3D%2F*~data%3D1460612911~hmac%3D4e2dd8b18296860806660d39c85b574915dae7c89ae6ff1defab0f8926b733a4
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
 http://95.211.148.68:8088/live/VipBeinSD4/playlist.m3u8?id=58282&pk=780e2fcec61ee8969841aebed93e4504cc2f3c064f0e540414c3a022a9dec34a
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
+http://2.136.225.217:4022/udp/239.0.3.35:8208
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%201%20HD.png" group-title="DEPORTES",Bein Sports 1
 
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%202%20HD.png" group-title="DEPORTES",Bein Sports 2
-
+http://2.136.225.217:4022/udp/239.0.0.215:8208
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%203%20HD.png" group-title="DEPORTES",Bein Sports 3
-
+http://2.136.225.217:4022/udp/239.0.0.216:8208
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%204%20HD.png" group-title="DEPORTES",Bein Sports 4
-
+http://2.136.225.217:4022/udp/239.0.0.217:8208
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%205%20HD.png" group-title="DEPORTES",Bein Sports 5
-
+http://2.136.225.217:4022/udp/239.0.0.218:8208
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%206%20HD.png" group-title="DEPORTES",Bein Sports 6
 
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%207%20HD.png" group-title="DEPORTES",Bein Sports 7
