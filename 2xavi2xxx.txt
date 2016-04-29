@@ -822,8 +822,8 @@ http://iptvgafsa.ddns.net:8000/live/and2/and2/9491.ts
 http://iptvgafsa.ddns.net:8000/live/and2/and2/9490.ts
 #EXTINF:-1 tvg-name="Legal XXX" tvg-logo="adult12.png" group-title="ADULT Channels",Legal XXX
 http://iptvgafsa.ddns.net:8000/live/and2/and2/9487.ts
-#EXTINF:-1 tvg-name="Venus" tvg-logo="adult12.png" group-title="ADULT Channels",Venus
-
+#EXTINF:-1 tvg-name="Venus" tvg-logo="adult12.png" group-title="ADULT Channels",Hustler
+http://104.236.247.170:8081/transco75/1416-Hustler/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextreme" tvg-logo="Sextreme.png" group-title="ADULT Channels",Sextreme
 
 #EXTINF:-1 tvg-name="Jasmin TV" tvg-logo="jasmin.png" group-title="ADULT Channels”,Jasmin TV
@@ -839,11 +839,11 @@ http://iptvgafsa.ddns.net:8000/live/and2/and2/9500.ts
 #EXTINF:-1 tvg-name="Playboy TV Latin America" tvg-logo="playboy.png" group-title="ADULT Channels",Playboy TV Latin America
 http://iptvgafsa.ddns.net:8000/live/and2/and2/9489.ts
 #EXTINF:-1 tvg-name="Real" tvg-logo="adult12.png" group-title="ADULT Channels",Real
-
+http://104.236.247.170:8081/transco75/210-Real/playlist.m3u8
 #EXTINF:-1 tvg-name="Juicy" tvg-logo="juicy.png" group-title="ADULT Channels",Juicy
-
+http://104.236.247.170:8081/transco75/113-Juicy/playlist.m3u8
 #EXTINF:-1 tvg-name="Xtsy XXX" tvg-logo="xtsy.png" group-title="ADULT Channels",Xtsy XXX
-
+http://104.236.247.170:8081/transco75/1415-XTSY/playlist.m3u8
 #EXTINF:-1 tvg-name="BRAZZERS" tvg-logo="Brazzers-TV.png" group-title="ADULT Channels",BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 #EXTINF:-1 tvg-name="PassionXXX" tvg-logo="pasiones.png" group-title="ADULT Channels",PassionXXX
