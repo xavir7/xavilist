@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cine",CANAL+0
+http://185.39.9.162/live/canalplushd_9wgyfa8/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=104520&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Cine",CANAL+ D CINE
+http://cdn.sstream.pw/live/dcine_a7qszaf/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105236&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Cine",CANAL+ ESTRENOS
+http://cdn.sstream.pw/live/estrenos_a7tf6np/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Cine",CANAL+ SERIES
+http://cdn.sstream.pw/live/plusseries_al1oyrq/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105236&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Cine",FOX (ESPAÑA) 
+http://cdn.sstream.pw/live/fox_alwk17k/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Cine",AXN (ESPAÑA) 
+http://cdn.sstream.pw/live/axn_alwla94/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Cine",TNT(ESPAÑA) 
+http://cdn.sstream.pw/live/tnt_alwl3qm/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Cine",CALLE 13 (ESPAÑA) 
+http://cdn.sstream.pw/live/iptv14/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",CANAL COCINA (ESPAÑA)
+http://cdn.sstream.pw/live/cocina_am9cifh/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",A&E (ESPAÑA)
+http://cdn.sstream.pw/live/iptv17/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",HISTORIA (ESPAÑA)
+http://cdn.sstream.pw/live/historia_9dm8skt/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",NATIONAL GEOGRAPHIC (ESPAÑA) 
+http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales", ODISEAS (ESPAÑA)
+http://cdn.sstream.pw/live/odiseass_ab1rhro/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",NAT GEO WILD (OFF)
+http://cdn.sstream.pw/live/iptv4/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=sAfvjFI23wAvHg0EesFjNkG5SzjMfwsUO736npoOPoHtcQaTuSpLZ2%2B4YDmdAiB6XagJ%2Bmk47Jf%2Bm6KiS4%2BErw%3D%3D&tk2=pqFrrqYdJmnzAa27ohGCQ2tnX%2FhFtXJEKy9rV5ZQN%2FY%3D&tk3=BUHyI8YxIT9BcWEURj5CO2TxdRCLoxX1NoOW0Bq3yaA%3D
+#EXTINF:-1 group-title="Documentales",DISCOVERY MAX (ESPAÑA)
+http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",DISCOVERY CHANNEL (ESPAÑA)
+http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Documentales",Investigation Discovery (ESPAÑA)OFF
+http://cdn.sstream.pw/live/ci_aaqtqg7/playlist.m3u8|Referer=http://www.playerhd1.pw/embed.php?c=105124&width=650&height=400&autostart=true&tk1=Lt2MOLgfVK86N%2FDRA3rOKyFaqzE%2FieAaXRCWqUcSWaZBf4K5m30flGJ4RkP0DhEjORhIvc0xr9k1gk1tJiVCXA%3D%3D&tk2=ax5o87L0iJB9V%2FKL9a%2FXuVZKcJdbkxCWRtXM%2FY80uWs%3D&tk3=8rJE6tsDOjYmWCs5uOsteiChYss2CHXNXH4E%2B9phPCo%3D
+#EXTINF:-1 group-title="Documentales",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Documentales",MTV  (ESPAÑA)
+http://cdn.sstream.pw/live/mtv_alwkh45/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105236&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Deportes",DEPORTES
+http://127.0.0.1
+#EXTINF:-1 group-title="Deportes",CANAL + LIGA
+http://cdn.sstream.pw/live/tvb111/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",CANAL+ (FUTBOL)
+http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",CANAL+ (DEPORTE)
+http://cdn.sstream.pw/live/deportes_alxadw6/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105371&width=650&height=400&autostart=true&tk1=ef2c99fXlt4hIa2p8KT6LcPEOGb2mr%2FQiJiEQsMYpe5OZs5kClyUXGWDiqa1r4xb%2F%2BI6yUnDLzeEYYQhQKZUEQ%3D%3D&tk2=odUA0637i3ZMJpDxjMoVt8ySG2dKmDo0dAnOJfpSLfw%3D&tk3=TKpYSu7LxDFlqNthRByZBgk6oDJGi6I8JwSOnvJEtT4%3D
+#EXTINF:-1 group-title="Deportes",BEIN (SPORT)
+http://cdn.sstream.pw/live/bein_alwkqfq/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105366&width=650&height=400&autostart=true&tk1=uHPwJSmgwi76BJsrAHysrLQw0COaTDdQpBqYGfJ%2Fna87PQyR1H12%2BIuvjaiZiWe1n7I8%2B%2FAf1XCev1kAMqimhg%3D%3D&tk2=RZBu4JLFsZoxvfShqc49WeKfNwCff3ET4pnSg%2FSohGE%3D&tk3=AZtyjNmhKR%2Fc0hRStcL%2FWtl6YdltZm92PfTPIgg2D6A%3D
+#EXTINF:-1 group-title="Deportes",BEIN (SPORT) 2
+http://cdn.sstream.pw/live/bein_alwkqfq/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",BEIN (FRANCIA)
+http://cdn.sstream.pw/live/foot18_6yw5gbn/playlist.m3u8|Referer:http://www.playerhd1.pw/embed.php?c=iptv2&width=650&height=400&autostart=true&tk1=cSn2kq1kJdb8qByPMIKZe3h46aOpGfZ7ujmR1Pd5cIG11f3xKtbSJJmyfBYtUZ%2Ff1v0j5YM85ZDoVRaZCTWiHA%3D%3D&tk2=e8p5V9taQxuc1%2FolTesuaeg312nRJ%2FVasAaaYHgUcks%3D&tk3=OgPyvNdM%2FVDJAi03a4AANIwX1Ek1viAEZ9DSbyRImk4%3D
+#EXTINF:-1 group-title="Deportes",EUROSPORT
+http://cdn.sstream.pw/live/eurosport1_aiyry92/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Deportes",CANAL + (TOROS)
+http://cdn.sstream.pw/live/toros_9frbv56/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",FORMULA 1(ESPAÑA) 
+http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",MOTO GP (ESPAÑA)
+http://cdn.sstream.pw/live/tvb117/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",SPORT TV OFF
+http://cdn.sstream.pw/live/tvb142/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D
+#EXTINF:-1 group-title="Deportes",NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 group-title="Deportes",FOX SPORT 1
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+#EXTINF:-1 group-title="Deportes", SKY SPORTS 1
+http://cdn.sstream.pw/live/tvb130/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105230&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Deportes",SKY SPORTS 2
+http://cdn.sstream.pw/live/tvb131/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105230&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Tdt",La 1 
+http://cdn.sstream.pw/live/tve1hd_9dm3ouj/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103947&width=650&height=400&autostart
+#EXTINF:-1 group-title="Tdt",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="Tdt",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 group-title="Tdt",Atreseries HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1 group-title="Tdt",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 group-title="Tdt",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 group-title="Tdt",Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 group-title="Tdt",Cuatro
+http://cdn.sstream.pw/live/cuatro_xrf2a3/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105236&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Tdt",Telecinco
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8
+#EXTINF:-1 group-title="Tdt",Telecinco(2)
+http://cdn.sstream.pw/live/telecinco55_ao7nqiq/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105407&width=650&height=400&autostart
+#EXTINF:-1 group-title="Tdt",FDF
+http://cdn.sstream.pw/live/fdfhd_xrewtt/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105236&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Tdt",Divinity
+http://mediasethls-lh.akamaihd.net/i/mitele/divinity_ng@393138/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Tdt",Energy
+http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Tdt",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="Tdt",CANAL EXTREMADURA
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1 group-title="Tdt",8tv
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+#EXTINF:-1 group-title="Tdt",8tv opcion 2
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Tdt",24 horas
+http://hlslive.rtve.es/24H_LV3_IPH/master.m3u8
+#EXTINF:-1 group-title="Tdt",Intereconomia
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:-1 group-title="Tdt",RT ESPAÑOL
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_480p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Tdt",RT ESPAÑOL opcion 2
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Tdt",13tv
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8
+#EXTINF:-1 group-title="Tdt",LA MANCHA TV
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1 group-title="Musica",MUSICA
+http://127.0.0.1
+#EXTINF:-1 group-title="Musica",VEVO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 group-title="Musica",VEVO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 group-title="Musica",Vevo HD 3 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 group-title="Musica",MTV
+http://cdn.sstream.pw/live/mtv_alwkh45/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=105236&width=650&height=400&autostart=true
+#EXTINF:-1 group-title="Musica",MTV opcion 2
+rtmp://31.220.40.39/privatestream/ playpath=mtv96?keys=ocV18feJ8E6jqqe_oIqX6g&keyt;=1448409951 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1 group-title="Musica",VIRGIN TV
+rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410
+#EXTINF:-1 group-title="Musica",HIT TV ON
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live?
+#EXTINF:-1 group-title="Musica",MIAMI TV ON
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/live.m3u8
+#EXTINF:-1 group-title="Musica",MIMUSICA 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 group-title="Musica",VOX MUSIC TV
+http://stream.smcloud.net/live2/vox/vox_720p/index.m3u8
+#EXTINF:-1 group-title="Musica",Virgin Radio TV
+http://fms.105.net:1935/live/virgin1/index.m3u8
+#EXTINF:-1,EP
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1,CANAL #0
+http://185.39.9.162/live/canalplushd_9wgyfa8/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,FOX
+http://cdn.sstream.pw/live/fox_alwk17k/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,FOX opcion 2
+http://cdn.sstream.pw/live/fox_a8e0vmf/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,AXN
+http://cdn.sstream.pw/live/axn_alwla94/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,TNT
+http://cdn.sstream.pw/live/tnt_alwl3qm/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,CANAL COCINA
+http://cdn.sstream.pw/live/cocina_am9cifh/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,HISTORIA
+http://cdn.sstream.pw/live/historia_9dm8skt/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,DISCOVERY MAX
+http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,DISCOVERY CHANNEL
+http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,CANAL+ FUTBOL opcion 2
+http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,BEIN SPORT
+http://cdn.sstream.pw/live/bein_alwkqfq/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,BEIN SPORT Opcion 3
+http://cdn.sstream.pw/live/bein_alwkqfq/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,BEIN SPORT FRANCIA
+http://cdn.sstream.pw/live/foot18_6yw5gbn/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,EUROSPORT
+http://cdn.sstream.pw/live/eurosport1_aiyry92/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,FORMULA 1
+http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,MOTO GP
+http://cdn.sstream.pw/live/tvb117/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,FORMULA 1 opcion 2
+http://cdn.sstream.pw/live/formula1_aqz9n68/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,MOTO GP Opcion 2
+http://cdn.sstream.pw/live/motogp_aqz9apr/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,SPORT TV 
+http://cdn.sstream.pw/live/tvb142/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,SKY SPORTS 1
+http://cdn.sstream.pw/live/tvb130/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1, SKY SPORTS 2
+http://cdn.sstream.pw/live/tvb131/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,La 1 opcion 2
+http://cdn.sstream.pw/live/tve1hd_9dm3ouj/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Antena 3 SD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Antena 3
+http://cdn.sstream.pw/live/antena3_9dm4nop/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,Atreseries HD opcion 2
+http://cdn.sstream.pw/live/A3Series_11zwyox/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,CUATRO Opcion 2
+http://cdn.sstream.pw/live/cuatro_xrf2a3/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,Telecinco
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8
+#EXTINF:-1,Telecinco opcion 2
+http://cdn.sstream.pw/live/telecinco55_ao7nqiq/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105407&width=650&height=400&autostart
+#EXTINF:-1,FDF
+http://cdn.sstream.pw/live/fdfhd_xrewtt/playlist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,Divinity opcion 2
+http://cdn.sstream.pw/live/diniiiii_9fil4ag/chunklist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1, CASTILLA LA MANCHA TV
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,8tv opcion 2
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:-1,24 horas
+http://hlslive.rtve.es/24H_LV3_IPH/master.m3u8
+#EXTINF:-1,Intereconomia
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:-1,RT ESPAÑOL
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_480p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:-1,EXTREMADURA TV  Espana
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,Classic Arts Showcase
+rtmp://streaming.cityofboston.gov/live/cable?b?b*t$
