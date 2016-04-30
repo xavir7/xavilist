@@ -31,7 +31,7 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 
 #EXTINF:-1 tvg-id="Azteca 7 -2hr" tvg-name="Azteca 7 -2hr" group-title="LOCALES" tvg-logo="azteca7-2.png",Azteca 7 -2hr
 
-#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7 MTY
+#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 http://38.104.228.230:1938/info7/info7_768/playlist.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV
 http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
@@ -45,9 +45,9 @@ http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 tvg-name="El Trece -1hr" tvg-logo="eltrece-1.png" group-title="LOCALES",El Trece -1hr
+#EXTINF:-1 tvg-name="El Trece -1hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-1.png" group-title="LOCALES",El Trece -1hr
 http://104.236.46.32:8081/live/sky96/azteca13-1/playlist.m3u8
-#EXTINF:-1 tvg-name="El Trece -2hr" tvg-logo="eltrece-2.png" group-title="LOCALES",El Trece -2hr
+#EXTINF:-1 tvg-name="El Trece -2hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-2.png" group-title="LOCALES",El Trece -2hr
 http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Noticias" tvg-logo="http://cdn.appaz.co/2014/0425/azteca-noticias-1041_486fb.png" group-title="LOCALES",Azteca Noticias
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
@@ -59,7 +59,7 @@ https://200.38.126.37:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgwJ
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-name="Canal 13" group-title="LOCALES" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Canal_13_Argentina.png/revision/latest?cb=20160113032118&path-prefix=es",Canal 13
 http://176.31.237.228:8000/live/miguel/miguel/1046.ts
-#EXTINF:-1 tvg-name="Azteca Deportes" group-title="LOCALES" tvg-logo="http://www.aztecadeportes.com/Deportes2014/images/footer_azteca.pngaztecadeportes.png",Azteca Deportes
+#EXTINF:-1 tvg-name="Azteca Deportes" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/aztecadeportes.png",Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+
 http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
@@ -67,7 +67,7 @@ http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
 http://159.203.79.162:8081/live/sky97/multimedios/playlist.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="milenio-tv.png" group-title="LOCALES",Milenio TV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
-#EXTINF:-1 tvg-name="Gala TV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gala_TV_logo_2013.png" group-title="LOCALES",Gala TV 7
+#EXTINF:-1 tvg-name="Gala TV 7" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv7.png" group-title="LOCALES",Gala TV 7 Obregon
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w387103843.m3u8
 #EXTINF:-1 tvg-id="TeleFórmula" tvg-name="TeleFórmula" tvg-logo="teleformula.png" group-title="LOCALES",TeleFórmula
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
@@ -95,7 +95,7 @@ http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="ENTRETENIMIENTO.png" group-title="ETIQUETAS",[COLOR yellow] ****ENTRETENIMIENTO****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ENTRETENIMIENTO.png" group-title="ETIQUETAS",[COLOR yellow] ****ENTRETENIMIENTO****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX" group-title="ENTRETENIMIENTO" tvg-logo="fox.png",FOX
 http://45.55.143.151:8081/live/sky97/CanalFox/playlist.m3u8
@@ -135,7 +135,7 @@ http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
-#EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.pngunivision.png" group-title="ENTRETENIMIENTO",Univision
+#EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
 http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
 http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
@@ -153,10 +153,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" group-title="ENTRETENIMIENTO" tvg-logo="distrito-comedia.png",Distrito Comedia
 http://104.236.61.232:8081/live/sky69/DistritoComedia/playlist.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="ENTRETENIMIENTO" tvg-logo="comedycentralhd.png",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/comedycentralhd.png",Comedy Central
 http://107.170.187.68:8081/live/sky83/ccomedycentralce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="INFANTILES.png" group-title="ETIQUETAS",               [COLOR yellow] ****NIÑOS****[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/INFANTILES.png" group-title="ETIQUETAS",               [COLOR yellow] ****NIÑOS****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="NIÑOS",Boomerang
 http://107.170.241.204:8081/live/74/boomerang/playlist.m3u8
@@ -184,12 +184,12 @@ http://45.55.143.151:8081/live/sky97/CartoonNetwork/playlist.m3u8
 http://104.131.117.246:8081/76/t1in/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.png" group-title="NIÑOS",Tooncast
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
-#EXTINF:-1 tvg-name="Anime 24H" tvg-logo="anime.png" group-title="NIÑOS",Anime
+#EXTINF:-1 tvg-name="Anime 24H" tvg-logo="http://wefixmx.com/cgi-bin/Logos/anime.png" group-title="NIÑOS",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-name="Los Simpsons" tvg-logo="simpsons.png" group-title="NIÑOS",Los Simpsons
+#EXTINF:-1 tvg-name="Los Simpsons" tvg-logo="http://wefixmx.com/cgi-bin/Logos/simpsons.png" group-title="NIÑOS",Los Simpsons
 rtmp://198.255.17.18:443/live?tGlifPXyNvNbvs8TY8d8ruPZV8KTih3n/live_mega_simpson
 
-#EXTINF:-1 tvg-name="ETIQUETAS" tvg-logo="CULTURAL.png" group-title="ETIQUETAS",            [COLOR yellow] ****CULTURAL****[/COLOR]
+#EXTINF:-1 tvg-name="ETIQUETAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CULTURAL.png" group-title="ETIQUETAS",            [COLOR yellow] ****CULTURAL****[/COLOR]
 http://
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="animalplanet.png" group-title="CULTURAL",Animal Planet
 http://45.55.143.151:8081/live/sky96/animalplanet/playlist.m3u8
@@ -231,14 +231,14 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 http://iphone-streaming.ustream.tv/uhls/14812707/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="Nasa Space Station Views" group-title="CULTURAL" tvg-logo="http://nanoracks.com/wp-content/uploads/external-1_01.png",NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-name="NASA Television (NASA)" tvg-logo="nasatv.png" group-title="CULTURAL",NASA TV
+#EXTINF:-1 tvg-name="NASA Television (NASA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="CULTURAL",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-id="NASA TV HD" tvg-name="NASA Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="CULTURAL",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Miami TV" tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png" group-title="CULTURAL",Miami TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="CINEMA.png" group-title="ETIQUETAS",              [COLOR yellow] ****CINEMA****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CINEMA.png" group-title="ETIQUETAS",              [COLOR yellow] ****CINEMA****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="De Película" tvg-name="De Pelicula HD" group-title="CINEMA" tvg-logo="de-pelicula.png",De Pelicula
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL489/PROFILE03.m3u8
@@ -252,7 +252,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Golden Multiplex" tvg-name="Golden Multiplex" group-title="CINEMA" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden_mpx.png",Golden Multiplex
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" group-title="CINEMA" tvg-logo="paramount.png",Paramount Channel
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/paramount.png",Paramount Channel
 http://104.131.117.246:8081/chuy/76/455-Paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Multicinema" tvg-name="Multicinema" group-title="CINEMA" tvg-logo="http://www.mastv.com.mx/images/mc.png",Multicinema [COLOR red]OFF[/COLOR]
 
@@ -292,7 +292,7 @@ http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 http://104.131.117.246:8081/chuy/76/033-FilmZone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="NOTICIAS.png" group-title="ETIQUETAS",             [COLOR yellow] ****NOTICIAS****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/NOTICIAS.png" group-title="ETIQUETAS",             [COLOR yellow] ****NOTICIAS****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="Canal del Congreso" group-title="NOTICIAS" tvg-logo="http://tutelevisionenvivo.org/wp-content/uploads/2010/10/canal_del_congreso_mexico.png",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
@@ -336,7 +336,7 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
 http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE2IDY6MzI6MjYgQU0maGFzaF92YWx1ZT1OQzJtWlJiREZ1bHUrQ1Axb2pKUkxnPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="PREMIUM.png" group-title="ETIQUETAS",              [COLOR gold][B]== PREMIUM ==[/B][/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/PREMIUM.png" group-title="ETIQUETAS",              [COLOR gold][B]== PREMIUM ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="Golden Premier" group-title="PREMIUM" tvg-logo="http://www.gigacable.com.mx/images/logos/premier.png",Golden Premier
 http://107.170.187.68:8081/live/sky68/G0ldenpreMIERE2csp/playlist.m3u8
@@ -356,19 +356,19 @@ http://104.131.117.246:8081/chuy/76/023-Foxcomedy/playlist.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="fox-classics.png" group-title="PREMIUM",FOX Classics
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (E)" tvg-logo="hbo.png" group-title="PREMIUM",HBO
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo.png" group-title="PREMIUM",HBO
 http://104.131.94.43:1382/live/sky97/hbo1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="hbo2.png" group-title="PREMIUM",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2
 http://198.199.79.108:8081/live/77/HBO2/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="hbo2.png" group-title="PREMIUM",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2
 http://199.180.114.174:88/files/hbo222222.m3u8
-#EXTINF:-1 tvg-id="HBO Family (E)" tvg-name="HBO Family (E)" tvg-logo="hbo-family.png" group-title="PREMIUM",HBO Family
+#EXTINF:-1 tvg-id="HBO Family (E)" tvg-name="HBO Family (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-family.png" group-title="PREMIUM",HBO Family
 http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Plus (E)" tvg-name="HBO Plus (E)" tvg-logo="hbo-plus.png" group-title="PREMIUM",HBO Plus Este
+#EXTINF:-1 tvg-id="HBO Plus (E)" tvg-name="HBO Plus (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Este
 
-#EXTINF:-1 tvg-id="HBO Plus (W)" tvg-name="HBO Plus (W)" tvg-logo="hbo-plus.png" group-title="PREMIUM",HBO Plus Oeste
+#EXTINF:-1 tvg-id="HBO Plus (W)" tvg-name="HBO Plus (W)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Oeste
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="hbo-signature.png" group-title="PREMIUM",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-signature.png" group-title="PREMIUM",HBO Signature
 
 #EXTINF:-1 tvg-name="Max UP" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PREMIUM",Max UP
 
@@ -384,9 +384,9 @@ http://62.210.162.88:80/live/ES152/1258321032016/1721.ts
 
 #EXTINF:-1 tvg-name="Canal+ Acción" tvg-logo="http://4.bp.blogspot.com/-2KJFeZRllBY/VmbtCTeCYuI/AAAAAAAAHtM/vIxrmp3Pa0E/s1600/Canal%252B_Acci%25C3%25B3n.png" group-title="PREMIUM",Canal+ Accion
 http://cms.cyntel.co:8000/live/matthew/matthew/2595.ts
-#EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://images.wikia.com/logopedia/images/8/82/Canal%2B_Comedia_2008.svg" group-title="PREMIUM",Canal+ Comedia
+#EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+comedia.png" group-title="PREMIUM",Canal+ Comedia
 http://62.210.162.88:80/live/ES152/1258321032016/1738.ts
-#EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://img2.wikia.nocookie.net/__cb20100603074009/logopedia/images/3/3f/Canal%2B_DCine_2008.svg" group-title="PREMIUM",Canal+ DCine
+#EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+DCine.png" group-title="PREMIUM",Canal+ DCine
 http://62.210.162.88:80/live/ES152/1258321032016/1737.ts
 #EXTINF:-1 tvg-name="CBS drama" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/CBS_drama_RGB.png/revision/latest?cb=20091107144033" group-title="PREMIUM",CBS drama USA
 
@@ -424,15 +424,15 @@ http://iptvbox.noip.us:9998/live/atik/atik/623.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://tipsmagicas.com/iptv/logos/ESPN+%20(2).png" group-title="DEPORTES",ESPN+
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://tipsmagicas.com/iptv/logos/ESPN+%20(2).png" group-title="DEPORTES",ESPN+ HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
 http://158.69.127.167:7676/hls/ESPN.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
 http://premium-mxl-iptv.cf/one/kodi:1522499c912ce92b5649bdb07a943473747940a0/35/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN US
 http://158.69.127.167:7676/hls/ESPN.m3u8
@@ -440,13 +440,13 @@ http://158.69.127.167:7676/hls/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="ESPNews US" tvg-name="ESPNews US" tvg-logo="http://www.colbymusic.com/images/logo-espn-news.png" group-title="DEPORTES",ESPNews US
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="espn-2.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-2.png",ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="espn-2.png",ESPN 2 HD
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 US
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="espn-3.png",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-3.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="espn-3.png",ESPN 3 HD
 
@@ -480,7 +480,7 @@ http://104.236.61.232:8081/live/sky69/UnivisionTDNcsp/playlist.m3u8
 http://mxl-iptv.cf/tv/?ch=aHR0cDovL3d3dy5qZG1zb2NpZXR5Lm5ldC9TVHVrL2pkbS5waHA/Y209MTQ4Mw==
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
 http://stream.ssh101.com:1935/live/deporteshd/chunklist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://4.bp.blogspot.com/-YD0YgEE4Kkw/VkDwhI1W9LI/AAAAAAAABb0/wMdnw0TJiTY/s1600/454.png" group-title="DEPORTES",Poker Central
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
 
@@ -548,7 +548,7 @@ http://premium-mxl-iptv.cf/two/kodi:1522499c912ce92b5649bdb07a943473747940a0/147
 http://104.236.80.130:8081/live/77/futbol/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png",Sky Sports 1
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
-#EXTINF:-1 tvg-name="Sky Sports 2" group-title="DEPORTES" tvg-logo=http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png",Sky Sports 2
+#EXTINF:-1 tvg-name="Sky Sports 2" group-title="DEPORTES" tvg-logo=http://wefixmx.com/cgi-bin/Logos/SkySports2.png",Sky Sports 2
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
 #EXTINF:-1 tvg-name="Sky Sports 3" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png",Sky Sports 3
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
@@ -570,43 +570,42 @@ http://xrxs.net/video/live-p12losa-4728.m3u8?
 http://xrxs.net/video/live-p12oreg-4728.m3u8?
 #EXTINF:-1 tvg-name="PAC-12 Net. (Washington)" tvg-logo="http://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="DEPORTES",PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1 tvg-name=“CBS Sports Network” tvg-logo="cbssports.png" group-title="DEPORTES",CBS Sports Network
+#EXTINF:-1 tvg-name=“CBS Sports Network” tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbssports.png" group-title="DEPORTES",CBS Sports Network
 http://iptvbox.noip.us:9998/live/atik/atik/801.m3u8
-#EXTINF:-1 tvg-name="Redbull TV" tvg-logo="redbulltv.png" group-title="DEPORTES",Redbull TV
+#EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/redbulltv.png" group-title="DEPORTES",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="tyc-sports.png" group-title="DEPORTES",TyC Deportes
+#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tyc-sports.png" group-title="DEPORTES",TyC Deportes
 http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
-#EXTINF:-1 tvg-name="Win Sports" tvg-logo="winsports.png" group-title="DEPORTES",Win Sports
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/winsports.png" group-title="DEPORTES",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-
 #EXTINF:-1 tvg-name="Arena Sport 1 HD" tvg-logo="Arena Sport 1 HD" group-title="DEPORTES",Arena Sport 1 HD
 
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="eurosport-hd.png" group-title="DEPORTES",EUROSPORT
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eurosport1.png" group-title="DEPORTES",EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="eurosport-hd.png" group-title="DEPORTES",EUROSPORT 2
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eurosport2.png" group-title="DEPORTES",EUROSPORT 2
 http://en356.edem.tv/iptv/K8RL4XXEQ9U5F2/141/index.m3u8
 #EXTINF:-1 tvg-name="Canal F1 Latinamerica" tvg-logo="f1.png" group-title="DEPORTES",Cana F1 Latinamerica
 
-#EXTINF:-1 tvg-name="Combate" tvg-logo="combate.png" group-title="DEPORTES",Combate
+#EXTINF:-1 tvg-name="Combate" tvg-logo="http://wefixmx.com/cgi-bin/Logos/combate.png" group-title="DEPORTES",Combate
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-#EXTINF:-1 tvg-name="UFC Network" tvg-logo="ufc-network.png" group-title="DEPORTES",UFC Network *Solo eventos*
+#EXTINF:-1 tvg-name="UFC Network" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network *Solo eventos*
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.
-#EXTINF:-1 tvg-name="UFC Network" tvg-logo="ufc-network.png" group-title="DEPORTES",UFC Network
+#EXTINF:-1 tvg-name="UFC Network" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network
 http://159.203.79.162:8081/live/sky97/ufc11/playlist.m3u8
-#EXTINF:-1 tvg-name="UFC Network" tvg-logo="ufc-network.png" group-title="DEPORTES",UFC Network 2
+#EXTINF:-1 tvg-name="UFC Network" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network 2
 http://mxl-iptv.cf/tv/?ch=aHR0cDovL3d3dy5qZG1zb2NpZXR5Lm5ldC9TVHVrL2pkbS5waHA/Y209OTYyOA==
-#EXTINF:-1 tvg-name="UFC Network Latinoamerica" tvg-logo="ufc-network.png" group-title="DEPORTES",UFC Network Latinoamerica
+#EXTINF:-1 tvg-name="UFC Network Latinoamerica" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network Latinoamerica
 http://209.126.106.202:8080/ufc/index.m3u8
-#EXTINF:-1 tvg-name="UFC Network Latinoamerica" tvg-logo="ufc-network.png" group-title="DEPORTES",UFC Network Latinoamerica 2
+#EXTINF:-1 tvg-name="UFC Network Latinoamerica" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network Latinoamerica 2
 http://159.203.79.162:8081/live/sky97/ufc11/playlist.m3u8
-#EXTINF:-1 tvg-name="NFL Now" tvg-logo="nflnow.png" group-title="DEPORTES",NFL Now
+#EXTINF:-1 tvg-name="NFL Now" tvg-logo="http://wefixmx.com/cgi-bin/Logos/nflnow.png" group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-id="NFL Network HD" tvg-name="NFL Network HD" tvg-logo="nfl.png" group-title="DEPORTES",NFL Network
+#EXTINF:-1 tvg-id="NFL Network HD" tvg-name="NFL Network HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/nfl.png" group-title="DEPORTES",NFL Network
 http://107.170.241.204:8081/live/74/nfl/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="MUSICA.png" group-title="ETIQUETAS",           [COLOR yellow] ****MUSICA****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/MUSICA.png" group-title="ETIQUETAS",           [COLOR yellow] ****MUSICA****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 vg-name="Tigo MUSIC" tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png" group-title="MUSICA",Tigo MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
@@ -620,149 +619,149 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="MUSICA" tvg-logo="mtv.png",MTV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="mtv-live-hd.png" group-title="MUSICA",MTV Live
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mtv-live-hd.png" group-title="MUSICA",MTV Live
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
-#EXTINF:-1 tvg-name="UK MTV Rocks" tvg-logo="mtvrock.png" group-title="MUSICA",MTV Rocks
+#EXTINF:-1 tvg-name="UK MTV Rocks" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mtvrock.png" group-title="MUSICA",MTV Rocks
 http://217.147.40.118:8080/udp/233.97.20.155:1234
-#EXTINF:-1 tvg-name="UK MTV Dance" tvg-logo="mtvdance.png" group-title="MUSICA",MTV Dance
+#EXTINF:-1 tvg-name="UK MTV Dance" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mtvdance.png" group-title="MUSICA",MTV Dance
 http://217.147.40.118:8080/udp/233.97.20.154:1234
 #EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="vh1.png" group-title="MUSICA",VH1
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzcmbGFuPTImcm93cz00MCZzZXNzaW9uPXpwdWtweWhleG9oZHc3cCZsYW49Mg==&f=.m3u8
-#EXTINF:-1 tvg-name="VH1 Classics" tvg-logo="vh1-classisc.png" group-title="MUSICA",VH1 Classics
+#EXTINF:-1 tvg-name="VH1 Classics" tvg-logo="http://wefixmx.com/cgi-bin/Logos/vh1-classisc.png" group-title="MUSICA",VH1 Classics
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
-#EXTINF:-1 tvg-name="Vevo HD 1" tvg-logo="vevo.png" group-title="MUSICA",Vevo HD 1
+#EXTINF:-1 tvg-name="Vevo HD 1" tvg-logo="http://wefixmx.com/cgi-bin/Logos/vevo.png" group-title="MUSICA",Vevo HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-name="Vevo HD 2" tvg-logo="vevo.png" group-title="MUSICA",Vevo HD 2
+#EXTINF:-1 tvg-name="Vevo HD 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/vevo.png" group-title="MUSICA",Vevo HD 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 tvg-name="Vevo HD 3" tvg-logo="vevo.png" group-title="MUSICA",Vevo HD 3
+#EXTINF:-1 tvg-name="Vevo HD 3" tvg-logo="http://wefixmx.com/cgi-bin/Logos/vevo.png" group-title="MUSICA",Vevo HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 tvg-name="IBIZA ON TV" tvg-logo="ibizaontv.png" group-title="MUSICA",IBIZA ON TV
+#EXTINF:-1 tvg-name="IBIZA ON TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ibizaontv.png" group-title="MUSICA",IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
-#EXTINF:-1 tvg-name="DJING TV" tvg-logo="djingtv.png" group-title="MUSICA",DJING TV
+#EXTINF:-1 tvg-name="DJING TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DJING TV
 http://www.djing.com/tv/live.m3u8
-#EXTINF:-1 tvg-name="DJING HOT HOT HOT" tvg-logo="djinghot.png" group-title="MUSICA",DJING HOT HOT HOT
+#EXTINF:-1 tvg-name="DJING HOT HOT HOT" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djinghot.png" group-title="MUSICA",DJING HOT HOT HOT
 http://www.djing.com/tv/hothothot.m3u8?
-#EXTINF:-1 tvg-name="DJING IBIZA" tvg-logo="djingtv.png" group-title="MUSICA",DJING IBIZA
+#EXTINF:-1 tvg-name="DJING IBIZA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DJING IBIZA
 http://www.djing.com/tv/ibiza.m3u8?
-#EXTINF:-1 tvg-name="DJING DANCEFLOOR" tvg-logo="djingtv.png" group-title="MUSICA",DJING DANCEFLOOR
+#EXTINF:-1 tvg-name="DJING DANCEFLOOR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DJING DANCEFLOOR
 http://www.djing.com/tv/dancefloor.m3u8?
-#EXTINF:-1 tvg-name="DJING UNDERGROUND" tvg-logo="djingtv.png" group-title="MUSICA",DJING UNDERGROUND
+#EXTINF:-1 tvg-name="DJING UNDERGROUND" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DJING UNDERGROUND
 http://www.djing.com/tv/underground.m3u8?
-#EXTINF:-1 tvg-name="DJING ANIMATION" tvg-logo="djinganimation.png" group-title="MUSICA",DJING ANIMATION
+#EXTINF:-1 tvg-name="DJING ANIMATION" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djinganimation.png" group-title="MUSICA",DJING ANIMATION
 http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-name="DJING CLASSICS" tvg-logo="djingtv.png" group-title="MUSICA",DJING CLASSICS
+#EXTINF:-1 tvg-name="DJING CLASSICS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DJING CLASSICS
 http://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 tvg-name="DANGE TV" tvg-logo="djingtv.png" group-title="MUSICA",DANGE TV
+#EXTINF:-1 tvg-name="DANGE TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DANGE TV
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] ****SKY PREMIERE****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] ****SKY PREMIERE****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] -INFANTILES-[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] -INFANTILES-[/COLOR]
 http://
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Dragon Ball Z La Resurrección De Freezer
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Dragon Ball Z La Resurrección De Freezer
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Amigos Salvajes 2
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Amigos Salvajes 2
 http://goo.gl/eEpc3Y
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon
 http://goo.gl/S86ni0
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon 2
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon 2
 http://goo.gl/I7LCeC
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Don Gato
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Don Gato
 http://goo.gl/z7zRHR
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",El Gigante de Hierro
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",El Gigante de Hierro
 http://goo.gl/zHlbSc
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Jimmy Neutron
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Jimmy Neutron
 http://goo.gl/03taEK
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",El Libro de la Vida
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",El Libro de la Vida
 http://goo.gl/QObZBX
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Lego La Pelicula
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Lego La Pelicula
 http://goo.gl/4RpAiU
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Robots
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Robots
 http://goo.gl/glseJg
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",101 Dalmatas
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",101 Dalmatas
 http://goo.gl/Vle5iU
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Alicia en el Pais de las Maravillas
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Alicia en el Pais de las Maravillas
 http://goo.gl/OACpBx
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Aviones
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Aviones
 http://goo.gl/RCdY8Z
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Buscando a Nemo
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Buscando a Nemo
 http://goo.gl/CkDnyn
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",El Rey Leon
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",El Rey Leon
 http://goo.gl/Q5JQq2
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Intensamente
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Intensamente
 http://goo.gl/YbOCbB
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",La Sirenita
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Sirenita
 http://goo.gl/K8Np0b
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Monster University
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Monster University
 http://goo.gl/ppw0XP
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Ralph El Demoledor
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Ralph El Demoledor
 http://goo.gl/jZ3CWL
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Ratatouille
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Ratatouille
 http://goo.gl/2vGWM9
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Toy Story
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Toy Story
 http://goo.gl/qAmoEv
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Un Gran Dinosaurio
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Un Gran Dinosaurio
 http://goo.gl/MgMTQz
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Vacas Vaqueras
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Vacas Vaqueras
 http://goo.gl/S5g0xA
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Wall-E
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Wall-E
 http://goo.gl/KQU9RJ
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Bob Esponja Un Heroe Fuera del Agua
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Bob Esponja Un Heroe Fuera del Agua
 http://goo.gl/l55uHW
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon
 http://goo.gl/S86ni0
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Don Gato
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Don Gato
 http://goo.gl/z7zRHR
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Gnomeo y Julieta
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Gnomeo y Julieta
 http://goo.gl/l5Bzf5
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Mi Villano Favorito
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Mi Villano Favorito
 http://goo.gl/Ge7y9z
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Mi Villano Favorito 2
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Mi Villano Favorito 2
 http://goo.gl/cYK6xX
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Kung Fu Panda
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Kung Fu Panda
 http://goo.gl/VP5N7C
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo
 http://goo.gl/p9AIDP
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 2
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 2
 http://goo.gl/0lzpWa
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 3
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 3
 http://goo.gl/O1n4iq
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 4
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 4
 http://goo.gl/f2B0ng
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Las Aventuras de TINTIN
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Las Aventuras de TINTIN
 http://goo.gl/kpMYtL
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Los Croods
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Los Croods
 http://goo.gl/DqR1eW
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
 http://
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand”,The Forest
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand”,The Forest
 http://goo.gl/2vQnZL
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Risen
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Risen
 http://goo.gl/UasGWy
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",The Witch
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Witch
 http://goo.gl/AIPv54
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand”,Sin Filtro
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand”,Sin Filtro
 http://goo.gl/hFRO9V
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",50 Shades of Black
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",50 Shades of Black
 http://goo.gl/gFiWda
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",The Trust
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Trust
 http://goo.gl/2Fzoe1
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Dirty Grandpa
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Dirty Grandpa
 http://goo.gl/l3fFfk
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand”,Olympus Has Fallen
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand”,Olympus Has Fallen
 http://goo.gl/1bLNpK
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",The Conjuring
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Conjuring
 http://goo.gl/dTuEpL
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Elysium
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Elysium
 http://goo.gl/0sVohz
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Arresto Domiciliario
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Arresto Domiciliario
 http://goo.gl/tNH4AX
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Anabelle
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Anabelle
 http://goo.gl/6cWcrF
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Captain Philips
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Captain Philips
 http://goo.gl/Qf3h3B
-#EXTINF:1 tvg-logo="skypremiereG.png" group-title="Peliculas on Demand",Gravity
+#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Gravity
 http://goo.gl/qfJRP3
