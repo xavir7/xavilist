@@ -31,7 +31,7 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 
 #EXTINF:-1 tvg-id="Azteca 7 -2hr" tvg-name="Azteca 7 -2hr" group-title="LOCALES" tvg-logo="azteca7-2.png",Azteca 7 -2hr
 
-#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7 MTY
+#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 http://38.104.228.230:1938/info7/info7_768/playlist.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV
 http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
@@ -45,9 +45,9 @@ http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 tvg-name="El Trece -1hr" tvg-logo="eltrece-1.png" group-title="LOCALES",El Trece -1hr
+#EXTINF:-1 tvg-name="El Trece -1hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-1.png" group-title="LOCALES",El Trece -1hr
 http://104.236.46.32:8081/live/sky96/azteca13-1/playlist.m3u8
-#EXTINF:-1 tvg-name="El Trece -2hr" tvg-logo="eltrece-2.png" group-title="LOCALES",El Trece -2hr
+#EXTINF:-1 tvg-name="El Trece -2hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-2.png" group-title="LOCALES",El Trece -2hr
 http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Noticias" tvg-logo="http://cdn.appaz.co/2014/0425/azteca-noticias-1041_486fb.png" group-title="LOCALES",Azteca Noticias
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
