@@ -5,7 +5,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/link3/ABRIL.png" group-title="ETIQUETAS",<Abril 2016>
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" ,****LOCALES****
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://wefixmx.com/cgi-bin/link3/televisamty.png" group-title="LOCALES",Televisa MTY
 http://209.126.124.25:8081/live/stalkviejo/localView2csp/playlist.m3u8
@@ -95,7 +95,7 @@ http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="ENTRETENIMIENTO.png" group-title="ETIQUETAS",[COLOR yellow] ****ENTRETENIMIENTO****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="ENTRETENIMIENTO.png" group-title="ETIQUETAS",****ENTRETENIMIENTO****
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX" group-title="ENTRETENIMIENTO" tvg-logo="fox.png",FOX
 http://45.55.143.151:8081/live/sky97/CanalFox/playlist.m3u8
