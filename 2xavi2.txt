@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***WeTV***[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/link3/ABRIL.png" group-title="ETIQUETAS", [COLOR aqua]<Abril 2016>[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/ABRIL.png" group-title="ETIQUETAS", [COLOR aqua]<Abril 2016>[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
