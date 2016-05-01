@@ -472,8 +472,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 http://mxl-iptv.cf/tv/?ch=aHR0cDovL3d3dy5qZG1zb2NpZXR5Lm5ldC9TVHVrL2pkbS5waHA/Y209MTA1OQ==
-#EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planeta Futbol Tigres vs Veracruz
-http://159.203.79.162:8081/live/sky68/plane21/playlist.m3u8
+#EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planeta Futbol
+http://159.203.79.162:8081/live/sky68/plane21/playlist
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="univision-tdn.png" group-title="DEPORTES",Univision TDN
 http://104.236.61.232:8081/live/sky69/UnivisionTDNcsp/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="univision-tdn.png" group-title="DEPORTES",Univision TDN 2
