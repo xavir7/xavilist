@@ -824,8 +824,8 @@ http://iptvgafsa.ddns.net:8000/live/and2/and2/9490.ts
 http://iptvgafsa.ddns.net:8000/live/and2/and2/9487.ts
 #EXTINF:-1 tvg-name="Venus" tvg-logo="adult12.png" group-title="ADULT Channels",Hustler
 http://104.236.247.170:8081/transco75/1416-Hustler/playlist.m3u8
-#EXTINF:-1 tvg-name="Sextreme" tvg-logo="Sextreme.png" group-title="ADULT Channels",Sextreme
-
+#EXTINF:-1 tvg-name="Sextreme" tvg-logo="Sextreme.png" group-title="ADULT Channels",Venus
+http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/VENUSSD/chunklist_w2146248551_b1000000.m3u8?securehash=HERXx4iSkBLOby9NSSwXXzk_HgwNL7Y8bqzZgIR87RI=&securestarttime=1462397237&secureendtime=1462404437&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-name="Jasmin TV" tvg-logo="jasmin.png" group-title="ADULT Channels”,Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jasmin TV 2" tvg-logo="jasmin.png" group-title="ADULT Channels”,Jasmin TV 2
