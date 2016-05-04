@@ -270,9 +270,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="AMC HD" group-title="CINEMA" tvg-logo="amc.png”,AMC HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="CINEMA" tvg-logo="space.png",Space
-http://107.170.241.204:8081/live/77/Space/playlist.m3u8
+http://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" group-title="CINEMA" tvg-logo="space-hd.png",Space HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+http://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" group-title="CINEMA" tvg-logo="http://www.lamac.org/res/channels/logos/_0025_studio_universal.png",Studio Universal
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="CINEMA" tvg-logo="tcm.png",TCM
