@@ -88,6 +88,8 @@ http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8#MegaIPTVArgentin
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RCG Coahuila" tvg-logo="https://pbs.twimg.com/profile_images/578592290240786432/eV8J2LIE.png" group-title="LOCALES",RCG Coahuila
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-name="TV UNI" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tvuni.jpeg" group-title="LOCALES",UANL TV
+mms://148.234.13.58/canal53bandaancha
 
 
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/ENTRETENIMIENTO.png" group-title="ETIQUETAS",[COLOR yellow] ****ENTRETENIMIENTO****[/COLOR]
@@ -451,7 +453,7 @@ http://104.236.46.32:8081/live/sky96/1Foxsports111/playlist.m3u8
 http://premium-mxl-iptv.cf/one/kodi:1522499c912ce92b5649bdb07a943473747940a0/49/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports HD
 
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://1.bp.blogspot.com/-9iekAZsxoa8/UFI6eiU82rI/AAAAAAAAB-w/VRxtOBzcRRE/s1600/fox.png",Fox Sports US
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports US
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
 http://104.131.94.43:1382/live/97/foxspor2/playlist.m3u8
