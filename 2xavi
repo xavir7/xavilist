@@ -1,1 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>Lista</title>
+      <genre>Television</genre>
+      <description>Lista de Canales</description>
+       <thumbnail>http://i.imgur.com/fjCasdU.png?1</thumbnail><fanart>http://i.imgur.com/PEgtnS1.png?1</fanart>
+      <date>11.04.2015</date>
+    </channels_info>
+   
+       
+    <channel>
+    <name>WeTV</name>
+    <thumbnail>"http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png</thumbnail>
+    <fanart>http://i.imgur.com/PEgtnS1.png?1</fanart>
+        <items>
+    <title>Canal 2</title>    
+    <link>http://209.126.124.25:8081/live/stalkviejo/localView2csp/playlist.m3u8</link>
+        </item>
+     <items>
+     <title>Canal 2 -2hrs</title>    
+    <link>http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8</link>
+     </item>
 
+    </channel>
+</channels>
