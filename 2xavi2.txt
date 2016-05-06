@@ -470,7 +470,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/TDNMXLA/chunklist_w2047875368_b1000000.m3u8?securehash=c8zLd-bsN4J7heiSOdj1pwGqHr52OHVUZeoyM-pOlBI=&securestarttime=1462496921&secureendtime=1462504121&secureuserid=0996456d59626e7d3202c6b0e6372324
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
+http://stream.ssh101.com:1935/live/TuTVOP1/playlist.m3u8?
 #EXTINF:-1 tvg-id="Planeta Futbol" tvg-name="Planeta Futbol" tvg-logo="http://vignette2.wikia.nocookie.net/liga-mx/images/c/c1/Planeta_Futbol_Logo.png/revision/latest?cb=20150512175207&path-prefix=es" group-title="DEPORTES",Planeta Futbol
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
