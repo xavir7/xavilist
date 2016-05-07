@@ -128,9 +128,9 @@ http://104.236.61.232:8081/live/sky69/Telenovelasmom/playlist.m3u8
 http://104.131.117.246:8081/chuy/76/884-TNTSeries/playlist.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 39
 http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 2
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
