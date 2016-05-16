@@ -58,7 +58,10 @@ http://176.31.237.228:8000/live/miguel/miguel/1046.ts
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+
 http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+ 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" group-title="LOCALES" tvg-logo="multimedios-monterrey.png",Multimedios Plus+ 3
 http://159.203.79.162:8081/live/sky97/multimedios/playlist.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="milenio-tv.png" group-title="LOCALES",Milenio TV
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
