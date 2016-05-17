@@ -398,17 +398,17 @@ http://62.210.162.88:80/live/ES152/1258321032016/1737.ts
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
 
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
-http://play.uktvnow.net:1935/live/showtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE2IDY6Mjc6NDggQU0maGFzaF92YWx1ZT1UQVRZRys5UVQxd1JGQVJsSnh5OUJ3PT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarGold
-http://play.uktvnow.net:1935/live/stargold7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE2IDY6Mjc6NDggQU0maGFzaF92YWx1ZT1UQVRZRys5UVQxd1JGQVJsSnh5OUJ3PT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY Modern Greats (Test)
-http://149.56.110.130:8000/live/latincha-demo/ode5s8k5mss9/95.ts
+
 #EXTINF:-1 tvg-name="SKY Disney" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-disney.png" group-title="PREMIUM",SKY Disney (Test)
-http://149.56.110.130:8000/live/latincha-demo/ode5s8k5mss9/96.ts
+
 #EXTINF:-1 tvg-name="SKY Family" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/24/Sky-Movies-HD-Family.png/revision/latest?cb=20111119124035" group-title="PREMIUM",SKY Family (Test)
-http://149.56.110.130:8000/live/latincha-demo/ode5s8k5mss9/97.ts
+
 #EXTINF:-1 tvg-name="SKY Comedy" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c6/Sky-Movies-Comedy.png/revision/latest?cb=20111118185407" group-title="PREMIUM",SKY Comedy (Test)
-http://149.56.110.130:8000/live/latincha-demo/ode5s8k5mss9/99.ts
+
 #EXTINF:-1 tvg-name="SKY Crime & Thriller" tvg-logo="skymoviecrime.png" group-title="PREMIUM",SKY Crime & Thriller (Test)
 
 #EXTINF:-1 tvg-name="SKY Movies Drama" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/Sky-Movies-DramaRomance.png/revision/latest?cb=20111118190215" group-title="PREMIUM",SKY Movies Drama (Test)
@@ -480,7 +480,7 @@ http://104.236.80.130:8081/live/77/Planetafutbol886/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN
 http://104.236.61.232:8081/live/sky69/Un1v15ionTDnnNcsp111/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA
-http://stream.ssh101.com:1935/live/deporteshd1/chunklist.m3u8
+http://stream.ssh101.com:1935/live/deporteshd/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
