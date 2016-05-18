@@ -391,16 +391,21 @@ http://62.210.162.88:80/live/ES152/1258321032016/1738.ts
 http://62.210.162.88:80/live/ES152/1258321032016/1737.ts
 #EXTINF:-1 tvg-name="CBS drama" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/CBS_drama_RGB.png/revision/latest?cb=20091107144033" group-title="PREMIUM",CBS drama USA
 
-#EXTINF:-1 tvg-name="CBS action" tvg-logo="http://vignette1.wikia.nocookie.net/memoryalpha/images/7/7c/CBS_Action_Logo.png/revision/latest?cb=20120328120516&path-prefix=en" group-title="PREMIUM",CBS action USA
-
+#EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS USA
+http://play.uktvnow.net:1935/live/cbs90.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MjQ6MTIgQU0maGFzaF92YWx1ZT1FL3RSMXVPOXBSL3ZOdC92VnhmZkd3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="CBS action" tvg-logo="https://thetvwatchtower.files.wordpress.com/2013/04/cbs.png" group-title="PREMIUM",CBS action USA
+http://play.uktvnow.net:1935/live/cbsaction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MzI6NTkgQU0maGFzaF92YWx1ZT1YaFFFL0U2a1JrV0RUUmsvSU9MNWhBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="CBS reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png" group-title="PREMIUM",CBS reality USA
-
+http://play.uktvnow.net:1935/live/cbsreality.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6Mjg6NTIgQU0maGFzaF92YWx1ZT1CMDN3K0VOTzBTV0N6bTNwdjRXWmFBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
-
+http://play.uktvnow.net:1935/live/usa9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MjI6NTcgQU0maGFzaF92YWx1ZT1lcHE1QUUwQUxxQngwTDdsNWFGYUlBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
-
-#EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarGold
-
+#EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 1
+http://play.uktvnow.net:1935/live/sky10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6Mjk6NTkgQU0maGFzaF92YWx1ZT1CNE5sSHRRMzBQUFBzb1J4cWFPRkZnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 2
+http://play.uktvnow.net:1935/live/sky2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MzE6MDMgQU0maGFzaF92YWx1ZT1BWm1PUk9sZEFZdE1IUVB4WDJiSHZ3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-name="Sky Movies Action" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319" group-title="PREMIUM", StarPlus
+http://play.uktvnow.net:1935/live/starplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MzE6NTMgQU0maGFzaF92YWx1ZT1UMVdISWJqL1ZYZmw2SGpadXorM1dRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY Modern Greats (Test)
 
 #EXTINF:-1 tvg-name="SKY Disney" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-disney.png" group-title="PREMIUM",SKY Disney (Test)
