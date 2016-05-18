@@ -610,6 +610,8 @@ http://209.126.106.202:8080/ufc/index.m3u8
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1 tvg-id="NFL Network HD" tvg-name="NFL Network HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/nfl.png" group-title="DEPORTES",NFL Network
 http://107.170.241.204:8081/live/74/nfl/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/383px-MLBNetworkLogo.svg.png" group-title="DEPORTES",MLB Network
+http://play.uktvnow.net:1935/live/mlb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDM6MzU6MDQgQU0maGFzaF92YWx1ZT1tU0xIME1wekpYTHV5NUNUYXJaVjdnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
