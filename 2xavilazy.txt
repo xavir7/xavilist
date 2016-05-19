@@ -7,7 +7,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-name="Televisa MTY" tvg-logo="http://wefixmx.com/cgi-bin/Logos/televisamty.png" group-title="LOCALES",Televisa MTY
-
+http://vod.cdn.iutpcdn.com/VOD/H01/4K/BBCF002SS/01.m3u8
 #EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b5/160px-Canal_de_las_Estrellas_logo.svg.png/revision/latest?cb=20140201032504" group-title="LOCALES",Canal de las Estrellas MX
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_el_canal_de_las_estrellas.png" group-title="LOCALES",Canal de las Estrellas
