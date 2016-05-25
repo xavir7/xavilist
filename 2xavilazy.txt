@@ -96,7 +96,7 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 mms://148.234.13.58/canal53bandaancha
 
 
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/ENTRETENIMIENTO.png" group-title="ETIQUETAS",[COLOR yellow] ****ENTRETENIMIENTO****[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/ENTRETENIMIENTO.png" group-title="ETIQUETAS", ****ENTRETENIMIENTO****
 http://
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX" group-title="ENTRETENIMIENTO" tvg-logo="fox.png",FOX
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
@@ -160,8 +160,8 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/INFANTILES.png" group-title="ETIQUETAS",               [COLOR yellow] ****NIÑOS****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/INFANTILES.png" group-title="ETIQUETAS",      ****NIÑOS****
+http://
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="NIÑOS",Boomerang
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDkxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="NIÑOS",CBeebies
@@ -193,7 +193,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 #EXTINF:-1 tvg-name="Los Simpsons" tvg-logo="http://wefixmx.com/cgi-bin/Logos/simpsons.png" group-title="NIÑOS",Los Simpsons
 rtmp://198.255.17.18:443/live?tGlifPXyNvNbvs8TY8d8ruPZV8KTih3n/live_mega_simpson
 
-#EXTINF:-1 tvg-name="ETIQUETAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CULTURAL.png" group-title="ETIQUETAS",            [COLOR yellow] ****CULTURAL****[/COLOR]
+#EXTINF:-1 tvg-name="ETIQUETAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CULTURAL.png" group-title="ETIQUETAS", ****CULTURAL****
 http://
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://wefixmx.com/cgi-bin/Logos/animalplanet.png" group-title="CULTURAL",Animal Planet
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
@@ -242,8 +242,8 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase
 #EXTINF:-1 tvg-name="Miami TV" tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png" group-title="CULTURAL",Miami TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CINEMA.png" group-title="ETIQUETAS",              [COLOR yellow] ****CINEMA****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CINEMA.png" group-title="ETIQUETAS", ****CINEMA****
+http://
 #EXTINF:-1 tvg-id="De Película" tvg-name="De Pelicula HD" group-title="CINEMA" tvg-logo="de-pelicula.png",De Pelicula
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="De Película HD" tvg-name="De Película HD" tvg-logo="de-pelicula-hd.png" group-title="CINEMA",De Pelicula HD
@@ -255,13 +255,13 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 #EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" group-title="CINEMA" tvg-logo="golden-edge.png",Golden Edge
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Golden Multiplex" tvg-name="Golden Multiplex" group-title="CINEMA" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden_mpx.png",Golden Multiplex
-http://carlosjerson.ml/5.php/http://31.220.40.116/LiveEdge/GoldenMPLXLA/chunklist_w1175594578_b1000000.m3u8?securehash=j8aMgPf1u4E-Vxyrb7YkbgxZT0_12J6iKLNfekJ-RBM=&securestarttime=1462397174&secureendtime=1462404374&secureuserid=0996456d59626e7d3202c6b0e6372324
+
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/paramount.png",Paramount Channel
 http://104.131.117.246:8081/chuy/76/455-Paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Multicinema" tvg-name="Multicinema" group-title="CINEMA" tvg-logo="http://www.mastv.com.mx/images/mc.png",Multicinema [COLOR red]OFF[/COLOR]
 
 #EXTINF:-1 tvg-id="Multipremier" tvg-name="Multipremier" group-title="CINEMA" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_5610_2_5665.png",Multipremier
-http://premium-mxl-iptv.cf/two/kodi:1522499c912ce92b5649bdb07a943473747940a0/3293/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tnt.png",TNT
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" group-title="CINEMA" tvg-logo="tnt-http://wefixmx.com/cgi-bin/Logos/tnthd.png",TNT HD
@@ -296,8 +296,8 @@ http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj0xdGhiYWx5dG5haWhiNjAmbGFuPTI=&f=.m3u8
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/NOTICIAS.png" group-title="ETIQUETAS",             [COLOR yellow] ****NOTICIAS****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/NOTICIAS.png" group-title="ETIQUETAS", ****NOTICIAS****
+http://
 #EXTINF:-1 tvg-name="Canal del Congreso" group-title="NOTICIAS" tvg-logo="http://tutelevisionenvivo.org/wp-content/uploads/2010/10/canal_del_congreso_mexico.png",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="http://vector.me/files/images/3/8/38275/cnn_international.png" group-title="NOTICIAS",CNN Internacional
@@ -340,8 +340,8 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
 http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDE2IDY6MzI6MjYgQU0maGFzaF92YWx1ZT1OQzJtWlJiREZ1bHUrQ1Axb2pKUkxnPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/PREMIUM.png" group-title="ETIQUETAS",              [COLOR gold][B]== PREMIUM ==[/B][/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/PREMIUM.png" group-title="ETIQUETAS",              == PREMIUM ==
+http://
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="Golden Premier" group-title="PREMIUM" tvg-logo="http://www.gigacable.com.mx/images/logos/premier.png",Golden Premier
 http://168.235.64.190/two/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/4777/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Premier 2" tvg-name="Golden Premier 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/golden_premier_2-mediano.png" group-title="PREMIUM",Golden Premier 2
@@ -363,7 +363,7 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZm
 #EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo.png" group-title="PREMIUM",HBO
 http://104.131.94.43:1382/live/sky97/hbo1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2 *solo LazyIPTV*
-http://199.180.114.174:88/files/hbo222222.m3u8
+
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo2.png" group-title="PREMIUM",HBO 2
 
 #EXTINF:-1 tvg-id="HBO Family (E)" tvg-name="HBO Family (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-family.png" group-title="PREMIUM",HBO Family
@@ -371,7 +371,7 @@ http://209.126.124.25:8081/live/sky79/652-HBOFamilycsp/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO Plus (E)" tvg-name="HBO Plus (E)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Este
 
 #EXTINF:-1 tvg-id="HBO Plus (W)" tvg-name="HBO Plus (W)" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-plus.png" group-title="PREMIUM",HBO Plus Oeste
-http://carlosjerson.ml/4.php/http://31.220.40.116/LiveEdge/HBOPus2LASD/chunklist_w1704567879_b1000000.m3u8?securehash=7eS37xCwKTQ3VWvqqblIN73lajESaVIeEQvgyOG3hA8=&securestarttime=1462497015&secureendtime=1462504215&secureuserid=0996456d59626e7d3202c6b0e6372324
+
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://wefixmx.com/cgi-bin/Logos/hbo-signature.png" group-title="PREMIUM",HBO Signature
 
 #EXTINF:-1 tvg-name="Max UP" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PREMIUM",Max UP
@@ -428,8 +428,8 @@ http://iptvbox.noip.us:9998/live/atik/atik/623.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/DEPORTES.png" group-title="ETIQUETAS",[COLOR yellow] ****DEPORTES****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/DEPORTES.png" group-title="ETIQUETAS", ****DEPORTES****
+http://
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn+.png" group-title="DEPORTES",ESPN+
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj16cHVrcHloZXhvaGR3N3AmbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn+.png" group-title="DEPORTES",ESPN+ HD
@@ -609,8 +609,8 @@ http://107.170.241.204:8081/live/74/nfl/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/MUSICA.png" group-title="ETIQUETAS",           [COLOR yellow] ****MUSICA****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/MUSICA.png" group-title="ETIQUETAS", ****MUSICA****
+http://
 #EXTINF:-1 vg-name="Tigo MUSIC" tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png" group-title="MUSICA",Tigo MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 tvg-name="Bandamax" group-title="MUSICA" tvg-logo="bandamax.png",Bandamax
@@ -662,9 +662,9 @@ http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] ****SKY PREMIERE****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] -INFANTILES-[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand", ****SKY PREMIERE****
+http://
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand", -INFANTILES-
 http://
 #EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Dragon Ball Z La Resurrección De Freezer
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
@@ -741,7 +741,7 @@ http://goo.gl/kpMYtL
 #EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Los Croods
 http://goo.gl/DqR1eW
 
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
+#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       ****PELICULAS ON DEMAND****
 http://
 #EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",The Forest
 http://goo.gl/2vQnZL
