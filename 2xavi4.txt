@@ -27,7 +27,7 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="AZ24HD.png",Azteca 7 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
-http://38.104.228.230:1938/info7/info7_768/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV
 http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="galatv.png" group-title="LOCALES",Gala TV HD
@@ -49,7 +49,7 @@ http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
 #EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Cinema
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Cinema 2
-https://200.38.126.37:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vYzB4ejh6M2RmZzJuaG8mbGFuPTI=&f=.m3u8zvezda
+https://200.38.126.37:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vYzB4ejh6M2RmZzJuaG8mbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca Novelas" tvg-name="Azteca Novelas" tvg-logo="http://static.azteca.com/portal/tvpagahome/images/corazon.png" group-title="LOCALES",Azteca Corazon HD
 
 #EXTINF:-1 tvg-name="Canal 13" group-title="LOCALES" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Canal_13_Argentina.png/revision/latest?cb=20160113032118&path-prefix=es",Canal 13
@@ -139,9 +139,9 @@ http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
 http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8??sd=10
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
-http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
+http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 3
-http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
@@ -408,7 +408,7 @@ http://worldcs.info:8080/live/ZX1lBACxzx/19lYOHxHT9/25.m3u8
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
 
 #EXTINF:-1 tvg-name="SKY Premiere" tvg-logo="http://vignette3.wikia.nocookie.net/qm-coorpration-channel/images/1/15/Showtime_5th_Logo.png/revision/latest?cb=20130915214351" group-title="PREMIUM",Showtime
-http://80.80.160.168/live/7/live.m3u8
+
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 1 USA
 
 #EXTINF:-1 tvg-name="SKY Modern Greats" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ef/Sky-Movies-HD-Modern-Greats.png/revision/latest?cb=20111119124728" group-title="PREMIUM",SKY 2 USA
@@ -452,11 +452,11 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
 
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN US
-http://158.69.127.167:7676/hls/ESPN.m3u8
+
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
-http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wowzasessionid=1941808251&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MjI6MTEgQU0maGFzaF92YWx1ZT1pWWg3Z1l2TkJUeHk4OXAxL0YrdmRRPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN HD USA
-http://play.uktvnow.net:1935/live/espnusahd.stream/playlist.m3u8?wowzasessionid=1065640461&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDU6MjI6NDcgQU0maGFzaF92YWx1ZT1Ma0I0RDROcDdQZzMwVzBtMFEzLzRBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png" group-title="DEPORTES",ESPNU
 
 #EXTINF:-1 tvg-id="ESPNews US" tvg-name="ESPNews US" tvg-logo="http://www.colbymusic.com/images/logo-espn-news.png" group-title="DEPORTES",ESPNews US
