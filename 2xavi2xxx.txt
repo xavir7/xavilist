@@ -792,3 +792,12 @@ http://goo.gl/6cWcrF
 http://goo.gl/Qf3h3B
 #EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Gravity
 http://goo.gl/qfJRP3
+
+#EXTINF:1, adulto erotic
+http://195.154.183.48:8000/live/alesandro/alesandro/1122.ts
+#EXTINF:1, hustler hd
+http://195.154.183.48:8000/live/alesandro/alesandro/1126.ts
+#EXTINF:1,hot club
+http://195.154.207.145:8000/play/xxxhotclub1hd 
+#EXTINF:1,hustler
+http://195.154.207.145:8000/play/xxxhustlerhd 
