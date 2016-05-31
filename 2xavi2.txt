@@ -103,7 +103,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" group-title="ENTRETENIMIENTO" tvg-logo="foxhd.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/unicable.png",Unicable
@@ -139,11 +139,11 @@ http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8??sd=10
+http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8?sd=10
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
-http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist
+http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 3
-http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist
+http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
