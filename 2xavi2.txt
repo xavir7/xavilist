@@ -16,7 +16,7 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
 http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.pngg" group-title="LOCALES",Canal 5
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.png" group-title="LOCALES",Canal 5
 http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -132,16 +132,20 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 http://168.235.64.190/one/kodi:10d81a6d227332fbc7f02f2639909ed0a817217c/81/playlist.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo39.png" group-title="ENTRETENIMIENTO",Telemundo 39
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
 http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
-http://latino-webtv.ml:88/live/429.m3u8
+#EXTINF:-1 tvg-id="Telemundo PR" tvg-name="Telemundo PR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundopr.png" group-title="ENTRETENIMIENTO",Telemundo PR
+http://146.185.130.83:8081/nimble-live/Telemundo_PR/playlist.m3u8
+#EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
+http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
+#EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
+http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
 http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8?sd=10
-#EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 2
-http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
+http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision 3
 http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
