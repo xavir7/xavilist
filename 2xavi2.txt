@@ -517,7 +517,7 @@ http://play.uktvnow.net:1935/live/mlb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
 http://52.37.237.165:8000/live/cloudtv/cloudtv/11.m3u8
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/directv.png" group-title="DEPORTES",DirecTV
-http://latino-webtv.ml:88/live/directv.m3u8
+http://146.185.16.60:8088/stream/directvsusy/playlist.m3u8?id=2273&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/pokercentral.png" group-title="DEPORTES",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="http://www.miralotv.org/images/tvcdeportes.png" group-title="DEPORTES”,TVC Deportes *(Prueba)*
