@@ -550,7 +550,7 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
 
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://4.bp.blogspot.com/-YD0YgEE4Kkw/VkDwhI1W9LI/AAAAAAAABb0/wMdnw0TJiTY/s1600/454.png" group-title="DEPORTES",Bein Sports Ñ
-
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/287/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
 
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
@@ -582,31 +582,29 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="DXTV" group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/625501119813427201/qQ2Wwpfh.png",DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" group-title="DEPORTES" tvg-logo="aym-sports.png",AyM Sports
-
-#EXTINF:-1 tvg-name="Canal + Fútbol" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png",Canal + Futbol
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/561/exabytetv.m3u8
+https://pro.exabytetv.info/total3/xkg584hgb6x7/514/exabytetv.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png",NBA TV
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="DEPORTES" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png/revision/latest?cb=20150519183239",NBA TV *Solo eventos*
 
 #EXTINF:-1 tvg-name="Barça TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",Barça TV
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/562/exabytetv.m3u8
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/562/exabytetv.m3u8
 #EXTINF:-1 tvg-name="ES Real Madrid TV" tvg-logo="http://1.bp.blogspot.com/-Jf9PjwEmDM4/UbnzKQIBKJI/AAAAAAAAEmQ/gLox-EFiI7I/s320/REAL+MADRD.png" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Canal+ Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Deportes
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/559/exabytetv.m3u8
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/559/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Canal+ Deportes HD" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Deportes 2
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/560/exabytetv.m3u8
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/560/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Canal+ Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol
 http://37.35.232.198:8001/1:0:1:778E:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-name="Canal+ Futbol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Futbol 2
-
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/561/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://images.wikia.com/tvkanal/da/images/f/f5/Canal%2B_Liga.png" group-title="DEPORTES",Canal+ Liga
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/557/exabytetv.m3u8
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/557/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Canal+ Liga HD" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Liga 2
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/558/exabytetv.m3u8
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/558/exabytetv.m3u8
 #EXTINF:-1 tvg-name="TV Toros" tvg-logo="http://3.bp.blogspot.com/-5l1qSHi7_BA/UeT7MKVn3aI/AAAAAAAABC8/Jk6s1cdRSks/s1600/canal-toros.png" group-title="DEPORTES",Canal+ Toros
-https://pro.exabytetv.info/xtc/TG9yZW0gaX/567/exabytetv.m3u8
+https://pro.exabytetv.info/xtc/xkg584hgb6x7/567/exabytetv.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png",Sky Sports
 http://149.202.207.8:8080/sk1-94506afdjklfg/sallu/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports 1" group-title="DEPORTES" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png",Sky Sports
@@ -804,11 +802,9 @@ http://goo.gl/DqR1eW
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
 http://
-#EXTINF:-1 tvg-logo="http://www.elmulticine.com/imagenes/carteles/6/los-milagros-cielo-cartel-b.jpg
-" group-title="Peliculas on Demand",Milagros del Cielo
+#EXTINF:1 tvg-logo="http://www.elmulticine.com/imagenes/carteles/6/los-milagros-cielo-cartel-b.jpg" group-title="Peliculas on Demand",Milagros del Cielo
 http://5.79.81.105:8777/qkipe2envpuzcg3h5gxsptpl26e37yyge4ze4ptnziftm37c3vm6ezc4vmha/v.flv
-#EXTINF:-1 tvg-logo="http://cdn.traileraddict.com/content/ff/approaching-unknown-trailercap2.jpg
-3" group-title="Peliculas on Demand",Approaching the Unknown
+#EXTINF:1 tvg-logo="http://cdn.traileraddict.com/content/ff/approaching-unknown-trailercap2.jpg" group-title="Peliculas on Demand",Approaching the Unknown
 http://95.211.196.4:8777/fgipltggvhuzcg3h5gbcphfz3rpq3w6hvvppkqpqroyijdj2bc7xvh3lsm6a/v.flv
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/hello-my-name-is-doris-2016/large_large_sFEruVDMWyMvYEvyV1l5HY6jU4j.jpg" group-title="Peliculas on Demand",Hello My Name Is Doris
 http://95.211.210.93:8777/agipkur6v3uzcg3h5ggcps5z376fveig5fvpzppfrqzwxai4gqpiaaicpn5q/v.flv
