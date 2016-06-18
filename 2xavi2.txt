@@ -534,9 +534,9 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_a
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/directv.png" group-title="DEPORTES",DirecTV [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
 
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tvargentina.png" group-title="DEPORTES",TV Argentina [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
-http://146.185.16.60:8088/stream/sports2susy/playlist.m3u8?id=2271&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
+
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tvargentina.png" group-title="DEPORTES",TV Argentina [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
+
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/winsports.png" group-title="DEPORTES",Win Sports [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:-1 tvg-name="Claro Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/clarosports.png" group-title="DEPORTES",Claro Sports [COLOR gold]COPA[/COLOR] [COLOR blue]AMERICA[/COLOR] [COLOR blue]U[/COLOR][COLOR white]S[/COLOR][COLOR red]A[/COLOR]
