@@ -428,7 +428,7 @@ http://164.132.168.61:9998//streaming/clients_live.php?username=mile&password=sk
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbshd.png" group-title="PREMIUM",CBS HD USA 
 
 #EXTINF:-1 tvg-name="CBS action" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs-action.png" group-title="PREMIUM",CBS action USA
-
+http://play.uktvnow.net:1935/live/cbsaction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDE2IDY6MjI6MDcgQU0maGFzaF92YWx1ZT1VTUliZTNCeUgyU0xlL1gvVGgvZXp3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-name="CBS reality" tvg-logo="http://wefixmx.com/cgi-bin/Logos/cbs-reality.png" group-title="PREMIUM",CBS reality USA
 
 #EXTINF:-1 tvg-name="USA" tvg-logo="http://culturesmash.tv/wp-content/uploads/2014/05/usa_network_logo-600x350.png" group-title="PREMIUM",USA
