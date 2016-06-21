@@ -839,3 +839,5 @@ https://googledrive.com/host/0B0MXsCsohgNfd0FpSk1nR2xkbzQ
 https://googledrive.com/host/0B0MXsCsohgNfY3h4eGZjUFFrRG8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg" group-title="Peliculas on Demand",Ama a tu Projimo
 https://googledrive.com/host/0B0MXsCsohgNfWjZGYzltRGpPWnM
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Deseo-538005036-main.jpg" group-title="Peliculas on Demand",Deseo
+http://url.tkilla.com/79fEXj
