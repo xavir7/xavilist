@@ -810,6 +810,8 @@ http://goo.gl/DqR1eW
 
 #EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
 http://
+#EXTINF:1 tvg-logo="http://static.hoyts.com.ar/uploads/commingSoon/904.jpg" group-title="Peliculas on Demand",Milagros del Cielo By BassFox
+http://5.79.81.105:8777/qkipe2envpuzcg3h5gxsptpl26e37yyge4ze4ptnziftm37c3vmv5f2wvmha/v.flv
 #EXTINF:1 tvg-logo="http://www.elmulticine.com/imagenes/carteles/6/los-milagros-cielo-cartel-b.jpg" group-title="Peliculas on Demand",Milagros del Cielo
 http://5.79.81.105:8777/qkipe2envpuzcg3h5gxsptpl26e37yyge4ze4ptnziftm37c3vm6ezc4vmha/v.flv
 #EXTINF:1 tvg-logo="http://cdn.traileraddict.com/content/ff/approaching-unknown-trailercap2.jpg" group-title="Peliculas on Demand",Approaching the Unknown
