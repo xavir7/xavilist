@@ -225,6 +225,8 @@ http://107.170.187.68:8081/live/sky68/discoverychannel/playlist.m3u8
 http://158.69.127.19:8000/live/dydlobitos/dydlobitos/921.ts
 #EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="home-and-health.png" group-title="CULTURAL",Discovery Home & Health
 http://158.69.127.19:8000/live/dydlobitos/dydlobitos/924.ts
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="home-and-health.png" group-title="CULTURAL",Discovery Home & Health
+http://mxl-iptv.cf/canales.php?canal=U2FsdGVkX1%2FHDd%2BucvLnh1i5qDNbePXV%2FbwibpcUH44%3D
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="discovery-science.png" group-title="CULTURAL",Discovery Science
 http://158.69.127.19:8000/live/dydlobitos/dydlobitos/111.ts
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="discovery-turbo.png" group-title="CULTURAL",Discovery Turbo
