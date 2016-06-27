@@ -690,6 +690,10 @@ http://167.88.124.145:8000/live/MXLIPTV/Eventos/153.m3u8
 http://149.202.207.8:8080/wwe-20616/sallu/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="http://sas.suplitodomedia.com/articles_images/GamblersPalace/NY-METS-vs.-WSH-NATIONALS.gp.jpg" group-title="DEPORTES",Mets vs Nationals
 http://mlblive-akc.mlb.com/ls01/mlbam/2016/06/27/MLB_GAME_VIDEO_NYNWAS_HOME_20160627/3500K/3500_complete.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="http://sas.suplitodomedia.com/articles_images/GamblersPalace/CH-CUBS-vs.-CIN-REDS.jpg" group-title="DEPORTES",Cubs vs Reds
+http://mlblive-akc.mlb.com/ls01/mlbam/2016/06/27/MLB_GAME_VIDEO_CHNCIN_HOME_20160627/3500K/3500_complete.m3u8
+
+
 
 
 
