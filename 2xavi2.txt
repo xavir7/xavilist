@@ -416,8 +416,8 @@ http://50.30.46.181:8081/live/96/maxprime/playlist.m3u8
 http://104.131.117.246:8081/chuy/76/358-MaxEste/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://web.telecable.es/documents/36258/140776/logocanal%2Bestrenos.png/31fed192-b686-4dc5-80da-9b95c811df05?t=1453198015207" group-title="PREMIUM",Canal+ Estrenos
 
-#EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series
-
+#EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Canal%2B_S%C3%A9ries_logo.png" group-title="PREMIUM",Canal+ Series HD
+http://cdn6.shurs.tv:8081/live/3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDE2IDY6MzU6NDAgQU0maGFzaF92YWx1ZT0rVkxaVXZ3RHc0Y1NEcGk5aXhvRmFRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49Ng==
 #EXTINF:-1 tvg-name="Canal+ Acción" tvg-logo="http://4.bp.blogspot.com/-2KJFeZRllBY/VmbtCTeCYuI/AAAAAAAAHtM/vIxrmp3Pa0E/s1600/Canal%252B_Acci%25C3%25B3n.png" group-title="PREMIUM",Canal+ Accion
 
 #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal+comedia.png" group-title="PREMIUM",Canal+ Comedia
@@ -547,7 +547,7 @@ https://video01-tok.streamup.com/app/anahix11s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 3
 http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22482577&stream=4&connectionId=oldurl-d79a675eb316a2358161580efa0016ff4eb80580&group=iphone
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tyc-sports.png" group-title="DEPORTES",TyC Deportes
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/35/chunklist.m3u8
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish1/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/directv.png" group-title="DEPORTES",DirecTV
 
 #EXTINF:-1 tvg-id="DirecTV" tvg-name="DirecTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tvargentina.png" group-title="DEPORTES",TV Argentina
@@ -684,6 +684,9 @@ http://167.88.124.145:8000/live/Eventos/MXLIPTV/134.m3u8
 http://167.88.124.145:8000/live/Eventos/MXLIPTV/153.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="DEPORTES",WWE Network
 http://149.202.207.8:8080/wwe-20616/sallu/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="http://wefixmx.com/cgi-bin/Logos/piratesvsdodgers.png" group-title="DEPORTES",Dodgers vs Pirates
+http://mlblive-akc.mlb.com/ls01/mlbam/2016/06/24/MLB_GAME_VIDEO_LANPIT_HOME_20160624/3500K/3500_complete.m3u8
+
 
 
 
