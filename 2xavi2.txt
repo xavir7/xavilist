@@ -482,9 +482,9 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 tvg-name="ESPN+" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn+.png" group-title="DEPORTES",ESPN+ HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN
-http://191.101.228.168/tp.php/playlist.m3u8?id=1671
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn.png" group-title="DEPORTES",ESPN HD
-http://premium.exabytetv.info/total5/oi23hfiubecjn/519/exabytetv.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
 http://cloudtv.videocdn.scaleengine.net/cloudtv-live/play/cloudtv4/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="http://static1.squarespace.com/static/5654ba34e4b085d161b0ec37/5654f8f8e4b0a63eb2a76ad2/56b510679f7266a9d9f3e261/1454706791741/20080617134152!Logo_ESPN.png" group-title="DEPORTES",ESPN USA
@@ -498,19 +498,19 @@ http://cloudtv.videocdn.scaleengine.net/cloudtv-live/play/cloudtv4/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-2.png",ESPN 2
 http://45.55.143.151:8081/live/sky97/Espn2/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn2hd.png",ESPN 2 HD
-http://premium.exabytetv.info/total5/oi23hfiubecjn/517/exabytetv.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="http://tele-envivo.com/wp-content/uploads/2016/01/espn-2-mexico.png",ESPN 2 USA
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/espn-3.png",ESPN 3
-http://191.101.228.168/tp.php/playlist.m3u8?id=1655
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ESPN3HD.png",ESPN 3 HD
-http://premium.exabytetv.info/total5/oi23hfiubecjn/518/exabytetv.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 http://104.236.46.32:8081/live/sky96/1Foxsports111/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports
 http://191.101.228.168/tp.php/playlist.m3u8?id=1659
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="foxsport.png",Fox Sports HD
-http://premium.exabytetv.info/total5/oi23hfiubecjn/521/exabytetv.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Fox Sports USA" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports USA
 
 #EXTINF:-1 tvg-id="Fox Sports USA" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/fs1.png",Fox Sports USA
@@ -520,19 +520,19 @@ http://191.101.228.168/tp.php/playlist.m3u8?id=1663
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2
 http://104.131.94.43:1382/live/97/foxspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2 HD
-http://premium.exabytetv.info/total5/oi23hfiubecjn/522/exabytetv.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 USA" tvg-name="Fox Sports 2 USA" group-title="DEPORTES" tvg-logo="FoxSports2.png",Fox Sports 2 USA
 
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3
 http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.launion.com.mx/images/la_union_de_morelos/899/chivas-tv.png" group-title="DEPORTES",Chivas TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.launion.com.mx/images/la_union_de_morelos/899/chivas-tv.png" group-title="DEPORTES",Chivas TV Programacion hasta el 1 Julio
 http://216.227.135.186:443/omnilife/smil:omnilife.smil/chunklist_w1487811701_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://167.88.124.145:8000/live/MXLIPTV/Eventos/105.m3u8
+
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
 https://video10-lax.streamup.com/app/rdz11s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
@@ -606,7 +606,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="DEPORTES" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png/revision/latest?cb=20150519183239",NBA TV *Solo eventos*
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/ChelseaTVLogo.png/150px-ChelseaTVLogo.png" group-title="DEPORTES",Chelsea TV
-
+http://185.45.13.179:8081/liverepeater/55d9a796dabca/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTYgNDozMjo0OSBBTSZoYXNoX3ZhbHVlPThMa1VPc3lLa3Naek0vMW5zZHRQblE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 tvg-name="" tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png" group-title="DEPORTES",MUTV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",Barça TV
@@ -676,7 +676,7 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:-1 tvg-name="UFC Network" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network
 
 #EXTINF:-1 tvg-name="UFC Network Latinoamerica" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",UFC Network Latinoamerica
-http://159.203.79.162:8081/live/sky97/uefece/playlist.m3u8
+http://207.38.82.65:9091/live/sky97/uefece/playlist.m3u8
 #EXTINF:-1 tvg-name="UFC Network Latinoamerica" tvg-logo="http://wefixmx.com/cgi-bin/Logos/ufc.png" group-title="DEPORTES",Fight Sports
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 tvg-name="NFL Now" tvg-logo="http://wefixmx.com/cgi-bin/Logos/nflnow.png" group-title="DEPORTES",NFL Now
@@ -689,17 +689,6 @@ http://167.88.124.145:8000/live/MXLIPTV/Eventos/134.m3u8
 http://167.88.124.145:8000/live/MXLIPTV/Eventos/153.m3u8
 #EXTINF:-1 tvg-name="WWE Network" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="DEPORTES",WWE Network
 http://149.202.207.8:8080/wwe-20616/sallu/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="http://sas.suplitodomedia.com/articles_images/GamblersPalace/NY-METS-vs.-WSH-NATIONALS.gp.jpg" group-title="DEPORTES",Mets vs Nationals
-http://mlblive-akc.mlb.com/ls01/mlbam/2016/06/27/MLB_GAME_VIDEO_NYNWAS_HOME_20160627/3500K/3500_complete.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="http://sas.suplitodomedia.com/articles_images/GamblersPalace/CH-CUBS-vs.-CIN-REDS.jpg" group-title="DEPORTES",Cubs vs Reds
-http://mlblive-akc.mlb.com/ls01/mlbam/2016/06/27/MLB_GAME_VIDEO_CHNCIN_HOME_20160627/3500K/3500_complete.m3u8
-
-
-
-
-
-
-
 
 
 
