@@ -124,7 +124,7 @@ http://209.126.124.25:8081/live/96/fx/playlist.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" group-title="CINEMA" tvg-logo="syfy.png",Syfy
 http://pro.exabytetv.info/exaven.php?id=1399&cal=2&f=.m3u8
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universalchannel.png",Universal Channel
-http://pro.exabytetv.info/exaven.php?id=1395&cal=2&f=.m3u8
+http://158.69.127.19:8000/live/jodeteadrian/putoadrian/78.ts
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universal-channelHD.png",Universal Channel HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 #EXTINF:-1 tvg-name="A&amp;E" group-title="ENTRETENIMIENTO" tvg-logo="a&e.png",A&E
@@ -160,7 +160,7 @@ http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-name="Pinguino TV HD" tvg-logo="http://elpinguino.com/uploads/imagenes/a4d656f47bdac68143488c2e0990c407.jpg" group-title="ENTRETENIMIENTO",Pinguino TV HD
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
-http://pro.exabytetv.info/exaven.php?id=1535&cal=2&f=.m3u8
+http://158.69.127.19:8000/live/jodeteadrian/putoadrian/110.ts
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
 http://pro.exabytetv.info/exaven.php?id=1427&cal=2&f=.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="ENTRETENIMIENTO",TBS
@@ -226,11 +226,11 @@ http://104.236.61.232:8081/live/sky69/2Hcsp/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="discovery-channel.png" group-title="CULTURAL",Discovery Channel
 http://107.170.187.68:8081/live/sky68/discoverychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="discovery-civilization.png" group-title="CULTURAL",Discovery Civilization
-http://pro.exabytetv.info/exaven.php?id=1544&cal=2&f=.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="home-and-health.png" group-title="CULTURAL",Discovery Home & Health
 http://107.170.241.204:8081/live/74/DiscovHH/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="discovery-science.png" group-title="CULTURAL",Discovery Science
-http://pro.exabytetv.info/exaven.php?id=1540&cal=2&f=.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="discovery-turbo.png" group-title="CULTURAL",Discovery Turbo
 http://pro.exabytetv.info/exaven.php?id=1548&cal=2&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e4/Discovery_world_channel.png/250px-Discovery_world_channel.png" group-title="CULTURAL",Discovery World
