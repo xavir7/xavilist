@@ -532,7 +532,7 @@ http://216.227.135.186:443/omnilife/smil:omnilife.smil/chunklist_w1487811701_b14
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://209.126.124.25:8081/live/97/tdnn1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-
+http://stream.ssh101.com:1935/live/TuTVOP1/chunklist.m3u8?token=nJ38tnHKFBxGdvir9tJzlsLf34N%2F0gHhCA8ZRYPqPVueyM5ZulqzVcF6cadlEiqghFTpQn%2FJSyXC4UEDE%2Fdv3+l8sHNP2L%2FD52zsfgbWi8xatMwRDxKCB21pxJbJaS0uGyC48sBEWKyUo3CTWJ93whuyehemCXsKQLLzb8jCwH0%3D
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
 https://video10-lax.streamup.com/app/rdz11s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
