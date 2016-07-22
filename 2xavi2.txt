@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***WeTV***[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***LISTA PROXIMA A VENCER***[/COLOR]
 http://
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]<JUNIO 2016>[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]A USUARIOS FAVOR DE PEDIR[/COLOR]
 http://
-
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]EL NUEVO COMPLEMENTO[/COLOR]
+http://
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]ESTA SECCION DEJARA DE FUNCIONAR[/COLOR]
+http://
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
 http://
 #EXTINF:-1 tvg-name="Televisa MTY" tvg-logo="http://wefixmx.com/cgi-bin/Logos/televisamty.png" group-title="LOCALES",Televisa MTY
