@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***WeTV***[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***LISTA PROXIMA A VENCER***[/COLOR]
 http://
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]<JUNIO 2016>[/COLOR]
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]A USUARIOS FAVOR DE PEDIR[/COLOR]
 http://
-
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]EL NUEVO COMPLEMENTO[/COLOR]
+http://
+#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]ESTA SECCION DEJARA DE FUNCIONAR[/COLOR]
+http://
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
 http://
 #EXTINF:-1 tvg-name="Televisa MTY" tvg-logo="http://wefixmx.com/cgi-bin/Logos/televisamty.png" group-title="LOCALES",Televisa MTY
@@ -17,7 +20,7 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-HD.png" group-title="LOCALES",Canal de las Estrellas HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-id="Canal 2 -1hr" tvg-name="Canal 2 -1hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal2-1.png" group-title="LOCALES",Canal de las Estrellas -1hr
-http://107.170.187.68:8081/live/sky68/Estrellas-1/playlist.m3u8
+http://207.38.82.65:9091/live/estrellas-1pl@net@/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
 http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.png" group-title="LOCALES",Canal 5
@@ -139,12 +142,18 @@ http://104.236.61.232:8081/live/sky69/Telenovelasmom/playlist.m3u8
 http://104.131.117.246:8081/chuy/76/884-TNTSeries/playlist.m3u8
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://pro.exabytetv.info/exaven.php?id=1415&cal=2&f=.m3u8
-#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo USA
-http://sjc-uhls-proxy106.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=22514108&stream=2&connectionId=oldurl-870a823ec5006df06e1bce12cc712d21aa436216&group=iphone
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 1
+http://192.99.63.129:8080/TELEMUNDO-EAST-GRUP-IPTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 2
 http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo PR" tvg-name="Telemundo PR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundopr.png" group-title="ENTRETENIMIENTO",Telemundo PR
 http://146.185.130.83:8081/nimble-live/Telemundo_PR/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 4
+http://192.99.63.129:8080/TELEMUNDO-EAST-GRUP-IPTV/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 5
+http://159.203.79.162:8081/live/t33l33mund00/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 6
+http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 http://104.131.117.246:8081/chuy/76/088-MundoFox/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
@@ -530,7 +539,7 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.launion.com.mx/images/la_union_de_morelos/899/chivas-tv.png" group-title="DEPORTES",Chivas TV Programacion hasta el 1 Julio
 
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
-http://198.50.201.154:1397/live/MXLAddon/Eventos/26.ts
+
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 http://stream.ssh101.com:1935/live/TuTVOP1/chunklist.m3u8?token=nJ38tnHKFBxGdvir9tJzlsLf34N%2F0gHhCA8ZRYPqPVueyM5ZulqzVcF6cadlEiqghFTpQn%2FJSyXC4UEDE%2Fdv3+l8sHNP2L%2FD52zsfgbWi8xatMwRDxKCB21pxJbJaS0uGyC48sBEWKyUo3CTWJ93whuyehemCXsKQLLzb8jCwH0%3D
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
@@ -538,11 +547,11 @@ http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
 http://178.162.199.138:8088/stream/elcabo1/playlist.m3u8?id=2644&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN 1
-http://198.50.201.154:1397/live/MXLAddon/Eventos/27.ts
+
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN 2
 http://207.38.82.65:9091/live/Un1v15ionTDnnNcsp111/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 1
-http://198.50.201.154:1397/live/MXLAddon/Eventos/40.ts
+
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
 http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 3
