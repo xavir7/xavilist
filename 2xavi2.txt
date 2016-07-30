@@ -36,11 +36,11 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV
-http://104.236.61.232:8081/live/sky69/GalaVTcsp/playlist.m3u8
+http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatvhd.png" group-title="LOCALES",Gala TV 2
-http://pro.exabytetv.info/exaven.php?id=1239&cal=2&f=.m3u8
+
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV 3
-rtmp://187.188.159.113/live/web.sdp
+
 #EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="once-tv.png" group-title="LOCALES",Once TV
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="el-trece.png" group-title="LOCALES",El Trece
@@ -539,7 +539,7 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.launion.com.mx/images/la_union_de_morelos/899/chivas-tv.png" group-title="DEPORTES",Chivas TV Programacion hasta el 1 Julio
 
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
-http://50.30.46.181:8081/live/79/tdnn/playlist.m3u8
+http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 http://stream.ssh101.com:1935/live/TuTVOP1/chunklist.m3u8?token=nJ38tnHKFBxGdvir9tJzlsLf34N%2F0gHhCA8ZRYPqPVueyM5ZulqzVcF6cadlEiqghFTpQn%2FJSyXC4UEDE%2Fdv3+l8sHNP2L%2FD52zsfgbWi8xatMwRDxKCB21pxJbJaS0uGyC48sBEWKyUo3CTWJ93whuyehemCXsKQLLzb8jCwH0%3D
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
