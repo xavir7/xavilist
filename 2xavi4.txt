@@ -36,7 +36,7 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+http://185.141.24.7/LIVE/FOROCABLE/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatvhd.png" group-title="LOCALES",Gala TV 2
 
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV 3
@@ -541,9 +541,9 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://stream.ssh101.com:1935/live/TuTVOP1/chunklist.m3u8?token=nJ38tnHKFBxGdvir9tJzlsLf34N%2F0gHhCA8ZRYPqPVueyM5ZulqzVcF6cadlEiqghFTpQn%2FJSyXC4UEDE%2Fdv3+l8sHNP2L%2FD52zsfgbWi8xatMwRDxKCB21pxJbJaS0uGyC48sBEWKyUo3CTWJ93whuyehemCXsKQLLzb8jCwH0%3D
+
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
-http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
 http://178.162.199.138:8088/stream/elcabo1/playlist.m3u8?id=2644&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Chivas TV
@@ -744,121 +744,3 @@ http://www.djing.com/tv/animation.m3u8
 http://www.djing.com/tv/classics.m3u8
 #EXTINF:-1 tvg-name="DANGE TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/djingtv.png" group-title="MUSICA",DANGE TV
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] ****SKY PREMIERE****[/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",[COLOR blue] -INFANTILES-[/COLOR]
-http://
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Dragon Ball Z La Resurrección De Freezer
-https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Amigos Salvajes 2
-http://goo.gl/eEpc3Y
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon
-http://goo.gl/S86ni0
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon 2
-http://goo.gl/I7LCeC
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Don Gato
-http://goo.gl/z7zRHR
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",El Gigante de Hierro
-http://goo.gl/zHlbSc
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Jimmy Neutron
-http://goo.gl/03taEK
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",El Libro de la Vida
-http://goo.gl/QObZBX
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Lego La Pelicula
-http://goo.gl/4RpAiU
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Robots
-http://goo.gl/glseJg
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",101 Dalmatas
-http://goo.gl/Vle5iU
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Alicia en el Pais de las Maravillas
-http://goo.gl/OACpBx
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Aviones
-http://goo.gl/RCdY8Z
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Buscando a Nemo
-http://goo.gl/CkDnyn
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",El Rey Leon
-http://goo.gl/Q5JQq2
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Intensamente
-http://goo.gl/YbOCbB
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Sirenita
-http://goo.gl/K8Np0b
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Monster University
-http://goo.gl/ppw0XP
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Ralph El Demoledor
-http://goo.gl/jZ3CWL
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Ratatouille
-http://goo.gl/2vGWM9
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Toy Story
-http://goo.gl/qAmoEv
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Un Gran Dinosaurio
-http://goo.gl/MgMTQz
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Vacas Vaqueras
-http://goo.gl/S5g0xA
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Wall-E
-http://goo.gl/KQU9RJ
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Bob Esponja Un Heroe Fuera del Agua
-http://goo.gl/l55uHW
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Como Entrenar a tu Dragon
-http://goo.gl/S86ni0
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Don Gato
-http://goo.gl/z7zRHR
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Gnomeo y Julieta
-http://goo.gl/l5Bzf5
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Mi Villano Favorito
-http://goo.gl/Ge7y9z
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Mi Villano Favorito 2
-http://goo.gl/cYK6xX
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Kung Fu Panda
-http://goo.gl/VP5N7C
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo
-http://goo.gl/p9AIDP
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 2
-http://goo.gl/0lzpWa
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 3
-http://goo.gl/O1n4iq
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",La Hera de Hielo 4
-http://goo.gl/f2B0ng
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Las Aventuras de TINTIN
-http://goo.gl/kpMYtL
-#EXTINF:1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereG.png" group-title="Peliculas on Demand",Los Croods
-http://goo.gl/DqR1eW
-
-#EXTINF:-1 tvg-name="Total Play" tvg-logo="http://wefixmx.com/cgi-bin/Logos/skypremiereS.png" group-title="Peliculas on Demand",       [COLOR red] ****PELICULAS ON DEMAND****[/COLOR]
-http://
-#EXTINF:1 tvg-logo="http://static.hoyts.com.ar/uploads/commingSoon/904.jpg" group-title="Peliculas on Demand",Milagros del Cielo By BassFox
-http://5.79.81.105:8777/qkipe2envpuzcg3h5gxsptpl26e37yyge4ze4ptnziftm37c3vmv5f2wvmha/v.flv
-#EXTINF:1 tvg-logo="http://static.chilango.com/media/2014/10/09/la-hija-de-moctezuma_9.jpg" group-title="Peliculas on Demand",La Hija de Moctezuma
-http://url.tkilla.com/cpE4XG
-#EXTINF:1 tvg-logo="http://pics.filmaffinity.com/Matando_Cabos-137008672-large.jpg" group-title="Peliculas on Demand",Matando Cabos
-http://url.tkilla.com/27tLnZ
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/No_eres_t_soy_yo-719401303-large.jpg" group-title="Peliculas on Demand",No Eres Tu Soy Yo
-http://url.tkilla.com/b7LqUN
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Reci_n_cazado-316396926-large.jpg" group-title="Peliculas on Demand",Recien Casado
-http://url.tkilla.com/UC4gQN
-#EXTINF:-1 tvg-logo="https://sinopsisiman.files.wordpress.com/2013/05/cinco-de-mayo-la-batalla-poster.jpg" group-title="Peliculas on Demand",Cinco de Mayo: La Batalla de Puebla
-http://url.tkilla.com/sXBh1z
-#EXTINF:-1 tvg-logo="http://i.huffpost.com/gen/856793/images/o-NOSOTROS-LOS-NOBLES-facebook.jpg" group-title="Peliculas on Demand",Nosotros Los Nobles
-http://url.tkilla.com/EVw2WY
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/As_del_precipicio-168557133-main.jpg" group-title="Peliculas on Demand",Asi del Precipicio
-http://url.tkilla.com/qGiJFW
-#EXTINF:-1 tvg-logo="http://cines.com/files/2013/06/poster-the-frozen-ground.jpg" group-title="Peliculas on Demand",The Frozen Ground
-http://www.spruto.tv/get_file/5/4b884c2c374315966a3dc6c6c1e5c154/120000/120002/120002.mp4
-#EXTINF:-1 tvg-logo="http://mpe-s2-p.mlstatic.com/los-indestructibles-expendables-stallone-poster-pelicula-393-MPE16127908_4993-O.jpg" group-title="Peliculas on Demand",Los Indestructibles
-http://www.spruto.tv/get_file/1/adee92811357b0acd345712fda254260/88000/88265/88265.mp4
-#EXTINF:-1 tvg-logo="http://www.elseptimoarte.net/carteles/a_la_mala_34642.jpg" group-title="Peliculas on Demand",A La Mala
-http://s183.zerocdn.to/dl/1a3887a2b65bd22ed8254ea16e8085b4/5768cdeb/ff56db024dcea0a14b8191d11b3a2524fc.flv
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg" group-title="Peliculas on Demand",A Volar Joven
-https://googledrive.com/host/0B0MXsCsohgNfVHV2Rnc3M1Q0TkE
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg" group-title="Peliculas on Demand",Abajo El Telon
-https://googledrive.com/host/0B0MXsCsohgNfaXBXVUd0T0o4SkU
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg" group-title="Peliculas on Demand",Aguila o Sol
-https://googledrive.com/host/0B0MXsCsohgNfd0FpSk1nR2xkbzQ
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg" group-title="Peliculas on Demand",Ahí Esta El Detalle
-https://googledrive.com/host/0B0MXsCsohgNfY3h4eGZjUFFrRG8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2xSwXf_AHt8/TyNQdE0BVPI/AAAAAAAAhqI/9mxVzKvW1Mk/s1600/cantinflas.jpg" group-title="Peliculas on Demand",Ama a tu Projimo
-https://googledrive.com/host/0B0MXsCsohgNfWjZGYzltRGpPWnM
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Deseo-538005036-main.jpg" group-title="Peliculas on Demand",Deseo
-http://url.tkilla.com/79fEXj
