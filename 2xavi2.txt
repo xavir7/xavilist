@@ -36,7 +36,7 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV
-http://187.188.79.2/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+http://185.141.24.7/LIVE/FOROCABLE/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatvhd.png" group-title="LOCALES",Gala TV 2
 
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV 3
@@ -52,7 +52,7 @@ http://104.236.46.32:8081/live/sky96/azteca13-1/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece -2hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/eltrece-2.png" group-title="LOCALES",El Trece -2hr
 http://104.236.46.32:8081/live/sky96/azteca13-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Noticias" tvg-logo="http://cdn.appaz.co/2014/0425/azteca-noticias-1041_486fb.png" group-title="LOCALES",Azteca Mundo
-http://pro.exabytetv.info/exaven.php?id=1443&cal=2&f=.m3u8
+
 #EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Corazon
 http://pro.exabytetv.info/exaven.php?id=1379&cal=2&f=.m3u8
 #EXTINF:-1 tvg-name="Azteca Cinema" tvg-logo="http://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="LOCALES",Azteca Cinema
@@ -541,13 +541,13 @@ http://107.170.241.204:8081/live/74/fossportsss3/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://stream.ssh101.com:1935/live/TuTVOP1/chunklist.m3u8?token=nJ38tnHKFBxGdvir9tJzlsLf34N%2F0gHhCA8ZRYPqPVueyM5ZulqzVcF6cadlEiqghFTpQn%2FJSyXC4UEDE%2Fdv3+l8sHNP2L%2FD52zsfgbWi8xatMwRDxKCB21pxJbJaS0uGyC48sBEWKyUo3CTWJ93whuyehemCXsKQLLzb8jCwH0%3D
+
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
-http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
-http://178.162.199.138:8088/stream/elcabo1/playlist.m3u8?id=2644&pk=0f09e4cfd340ad54299502a5165a5bc842573b0a3d3d0306790cccf23e3a305a
+
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Chivas TV
-http://216.227.135.186:1935/omnilife/smil:omnilife.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN 2
 http://207.38.82.65:9091/live/Un1v15ionTDnnNcsp111/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 1
