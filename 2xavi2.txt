@@ -36,9 +36,9 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
 
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV
-http://185.141.24.7/LIVE/FOROCABLE/CANAL109/PROFILE03.m3u8
+https://goo.gl/pMMj1L
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatvhd.png" group-title="LOCALES",Gala TV 2
-
+http://mxl-iptv.cf/beta_1/E14B1D1165E64080D5ACC7ADC8CDD91DA95C64E4/0AACBAFF5114DD842CE5C4134294C16E08AFCFC3/109/PROFILE03/mxl.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV 3
 
 #EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="once-tv.png" group-title="LOCALES",Once TV
