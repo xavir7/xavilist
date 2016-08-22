@@ -24,9 +24,9 @@ http://207.38.82.65:9091/live/estrellas-1pl@net@/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
 http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.png" group-title="LOCALES",Canal 5
-http://45.55.143.151:8081/live/sky96/Canal5/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?/PROFILE00-801/.ts
+#EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?/PROFILE05-801/.ts
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/forotv.png",Foro TV
 http://45.55.143.151:8081/live/sky97/Forotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca 7 HD" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7
@@ -107,61 +107,61 @@ http://
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX" group-title="ENTRETENIMIENTO" tvg-logo="fox.png",FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" group-title="ENTRETENIMIENTO" tvg-logo="foxhd.png",FOX HD
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?/PROFILE05-801/.ts
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?/PROFILE05-801/.ts
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony
 http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" group-title="ENTRETENIMIENTO" tvg-logo="sony.png",Sony HD
 http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?/PROFILE05-801/.ts
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/bbc%20entretainment.png",BBC Entertainment
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/unicable.png",Unicable
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/warner-hd.png",Warner Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name=""E! Entertainment Television"" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/link2/guide.xml",E! Entertainment Television
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="ENTRETENIMIENTO" tvg-logo="fx.png",FX
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" group-title="ENTRETENIMIENTO" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png/revision/latest?cb=20120119175742",FX HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?/PROFILE05-801/.ts
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" group-title="CINEMA" tvg-logo="syfy.png",Syfy
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universalchannel.png",Universal Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/universal-channelHD.png",Universal Channel HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?/PROFILE05-801/.ts
 #EXTINF:-1 tvg-name="A&amp;E" group-title="ENTRETENIMIENTO" tvg-logo="a&e.png",A&E
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name="AXN HD" group-title="ENTRETENIMIENTO" tvg-logo="axn-hd.png",AXN
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name="AXN HD" group-title="ENTRETENIMIENTO" tvg-logo="axn-hd.png",AXN HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?/PROFILE05-801/.ts
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tlnovelas.png" group-title="ENTRETENIMIENTO",Tlnovelas
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name="TNT Series" group-title="ENTRETENIMIENTO" tvg-logo="http://www.ipuntotv.com/IMAGES/TNT-Series-logo.png",TNT Series
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 1
-http://192.99.63.129:8080/TELEMUNDO-EAST-GRUP-IPTV/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wefixmx.com/cgi-bin/Logos/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 2
-http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo PR" tvg-name="Telemundo PR" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundopr.png" group-title="ENTRETENIMIENTO",Telemundo PR
-http://146.185.130.83:8081/nimble-live/Telemundo_PR/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 4
-http://192.99.63.129:8080/TELEMUNDO-EAST-GRUP-IPTV/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 5
-http://159.203.79.162:8081/live/t33l33mund00/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo 39" tvg-name="Telemundo 39" tvg-logo="http://wefixmx.com/cgi-bin/Logos/telemundo.png" group-title="ENTRETENIMIENTO",Telemundo 6
-http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Mundo Fox" tvg-name="Mundo Fox" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundofox.png" group-title="ENTRETENIMIENTO",Mundo Fox
 
 #EXTINF:-1 tvg-id="Mundo Max" tvg-name="Mundo Max" tvg-logo="http://wefixmx.com/cgi-bin/Logos/mundomax.png" group-title="ENTRETENIMIENTO",Mundo Max
-http://104.131.111.63:8081/hls/wjpx/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Univisión Network (East) (UNI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
-http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Univisión" tvg-logo="http://wefixmx.com/cgi-bin/Logos/univisionpr.png" group-title="ENTRETENIMIENTO",Univision PR
-http://146.185.130.83:8081/nimble-live/Univision_PR/playlist.m3u8
+
 #EXTINF:-1 tvg-name="RCN Colombia" tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png" group-title="ENTRETENIMIENTO",RCN Colombia
 
 #EXTINF:-1 tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/caracol-tv/images/2/23/200_(5).png/revision/latest?cb=20150308004855" group-title="ENTRETENIMIENTO",Caracol TV
@@ -171,47 +171,47 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Lifetime" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
 
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" group-title="ENTRETENIMIENTO" tvg-logo="fox-life.png",Fox Life
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="ENTRETENIMIENTO",TBS
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" group-title="ENTRETENIMIENTO" tvg-logo="glitz.png",Glitz
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="TruTV" tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/trutv.png" group-title="ENTRETENIMIENTO",TruTV
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" group-title="ENTRETENIMIENTO" tvg-logo="distrito-comedia.png",Distrito Comedia
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="ENTRETENIMIENTO" tvg-logo="http://wefixmx.com/cgi-bin/Logos/comedycentralhd.png",Comedy Central
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL278/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL278/PROFILE03.m3u8?/PROFILE03-801/.ts
 
 
 #EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/INFANTILES.png" group-title="ETIQUETAS",               [COLOR yellow] ****NIÑOS****[/COLOR]
 http://
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="NIÑOS",Boomerang
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="NIÑOS",CBeebies
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="discovery-kids.png" group-title="NIÑOS",Discovery Kids
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="NIÑOS" tvg-logo="disney-jr.png",Disney Jr
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="nick-jr.png" group-title="NIÑOS",Nick Jr
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" group-title="NIÑOS" tvg-logo="nick.png",nick
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="nickhd.png" group-title="NIÑOS",Nick HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="NickToons" tvg-name="nickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="NIÑOS",nickToons
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="NIÑOS" tvg-logo="disney-channel.png",Disney Channel
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL311/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL311/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" group-title="NIÑOS" tvg-logo="disney-xd.png",Disney XD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="NIÑOS" tvg-logo="cartoon-network.png",Cartoon Network
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL3201/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tiin.png" group-title="NIÑOS",TIIN
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="tooncast" group-title="NIÑOS",Tooncast
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name="Anime 24H" tvg-logo="http://wefixmx.com/cgi-bin/Logos/anime.png" group-title="NIÑOS",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1 tvg-name="Los Simpsons" tvg-logo="http://wefixmx.com/cgi-bin/Logos/simpsons.png" group-title="NIÑOS",Los Simpsons 24/7
@@ -221,17 +221,17 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 #EXTINF:-1 tvg-name="ETIQUETAS" tvg-logo="http://wefixmx.com/cgi-bin/Logos/CULTURAL.png" group-title="ETIQUETAS",            [COLOR yellow] ****CULTURAL****[/COLOR]
 http://
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://wefixmx.com/cgi-bin/Logos/animalplanet.png" group-title="CULTURAL",Animal Planet
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/HGTV_logo_2015.png" group-title="CULTURAL",HGTV
 
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history.png" group-title="CULTURAL",History
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="CULTURAL",History
-http://104.131.94.43:1382/live/sky97/History1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history.png" group-title="CULTURAL",History HD
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" group-title="CULTURAL" tvg-logo="h2.png",H2 
-http://104.236.61.232:8081/live/sky69/2Hcsp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="discovery-channel.png" group-title="CULTURAL",Discovery Channel
 http://107.170.187.68:8081/live/sky68/discoverychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="discovery-civilization.png" group-title="CULTURAL",Discovery Civilization
