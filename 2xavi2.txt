@@ -541,7 +541,7 @@ http://latinchannel.tv:8000/live/Yerik/valentina12/167.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
 http://latinchannel.tv:8000/live/Yerik/valentina12/167.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
-http://alphastreams.live:8080/live/testlist/testlist/527.ts
+https://162.243.209.71:8000/live/fc/fc10/748.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://laaficion.milenio.com/futbol/Llego-Chivas-TV_MILIMA20160521_0146_30.jpg" group-title="DEPORTES",Chivas TV *Solo días de partido*
