@@ -544,9 +544,9 @@ http://latinchannel.tv:8000/live/Yerik/valentina12/167.m3u8
 http://alphastreams.live:8080/live/testlist/testlist/527.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
 
-#EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Chivas TV *Solo días de partido*
+#EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://laaficion.milenio.com/futbol/Llego-Chivas-TV_MILIMA20160521_0146_30.jpg" group-title="DEPORTES",Chivas TV *Solo días de partido*
 http://latinchannel.tv:8000/live/Yerik/valentina12/415.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Chivas TV *Solo días de partido*
+#EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://laaficion.milenio.com/futbol/Llego-Chivas-TV_MILIMA20160521_0146_30.jpg" group-title="DEPORTES",Chivas TV *Solo días de partido*
 http://latinchannel.tv:8000/live/Yerik/valentina12/415.ts
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Univision TDN 2
 
