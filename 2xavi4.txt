@@ -1,42 +1,49 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/wetvsolo214x144.png" group-title="ETIQUETAS", [COLOR aqua]***LISTA PROXIMA A VENCER***[/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]A USUARIOS FAVOR DE PEDIR[/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]EL NUEVO COMPLEMENTO[/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/junio.png" group-title="ETIQUETAS", [COLOR deepskyblue]ESTA SECCION DEJARA DE FUNCIONAR[/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://wefixmx.com/cgi-bin/Logos/LOCALES.png" group-title="ETIQUETAS" , [COLOR yellow] ****LOCALES****[/COLOR]
-http://
-#EXTINF:-1 tvg-name="Televisa MTY" tvg-logo="http://wefixmx.com/cgi-bin/Logos/televisamty.png" group-title="LOCALES",Televisa MTY
-http://209.126.124.25:8081/live/stalkviejo/localView2csp/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b5/160px-Canal_de_las_Estrellas_logo.svg.png/revision/latest?cb=20140201032504" group-title="LOCALES",Canal de las Estrellas MX
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-name="Canal 2 MX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b5/160px-Canal_de_las_Estrellas_logo.svg.png/revision/latest?cb=20140201032504" group-title="LOCALES",Canal de las Estrellas MX HD
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_el_canal_de_las_estrellas.png" group-title="LOCALES",Canal de las Estrellas
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-HD.png" group-title="LOCALES",Canal de las Estrellas HD
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1 tvg-id="Canal 2 -1hr" tvg-name="Canal 2 -1hr" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal2-1.png" group-title="LOCALES",Canal de las Estrellas -1hr
-http://207.38.82.65:9091/live/estrellas-1pl@net@/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 2 -2 horas" tvg-name="Canal 2 -2 horas" tvg-logo="http://imagenes.gatotv.com/logos/canales/de_las_estrellas_-2h_mexico-mediano.png" group-title="LOCALES",Canal de las Estrellas -2hr
-http://104.236.46.32:8081/live/sky83/Estrellas-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="http://wefixmx.com/cgi-bin/Logos/canal-5-HD.png" group-title="LOCALES",Canal 5
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?/PROFILE00-801/.ts
-#EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="canal-5-HD.png" group-title="LOCALES",Canal 5 HD
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?/PROFILE05-801/.ts
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/forotv.png",Foro TV
-http://45.55.143.151:8081/live/sky97/Forotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7HD.png",Azteca 7 HD
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
 
-#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%201%20HD.png" group-title="DEPORTES",Bein Sports 1
 
-#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV
-https://goo.gl/pMMj1L
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%202%20HD.png" group-title="DEPORTES",Bein Sports 2
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%203%20HD.png" group-title="DEPORTES",Bein Sports 3
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%204%20HD.png" group-title="DEPORTES",Bein Sports 4
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%205%20HD.png" group-title="DEPORTES",Bein Sports 5
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%206%20HD.png" group-title="DEPORTES",Bein Sports 6
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%207%20HD.png" group-title="DEPORTES",Bein Sports 7
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%208%20HD.png" group-title="DEPORTES",Bein Sports 8
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%209%20HD.png" group-title="DEPORTES",Bein Sports 9
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%2010%20HD.png" group-title="DEPORTES",Bein Sports 10
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%2011%20HD.png" group-title="DEPORTES",Bein Sports 11
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="http://droidtv4free.partypixxphotobooth.com/Logos/BeIN%20Sports%2012%20HD.png" group-title="DEPORTES",Bein Sports 12
+
+#EXTINF:-1 tvg-name="DXTV" group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/625501119813427201/qQ2Wwpfh.png",DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" group-title="DEPORTES" tvg-logo="aym-sports.png",AyM Sports
+
+#EXTINF:-1 tvg-name="NBA TV" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png",NBA TV
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-name="NBA TV" group-title="DEPORTES" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png/revision/latest?cb=20150519183239",NBA TV *Solo eventos*
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/ChelseaTVLogo.png/150px-ChelseaTVLogo.png" group-title="DEPORTES",Chelsea TV
+http://185.45.13.179:8081/liverepeater/55d9a796dabca/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTYgNDozMjo0OSBBTSZoYXNoX3ZhbHVlPThMa1VPc3lLa3Naek0vMW5zZHRQblE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1 tvg-name="" tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png" group-title="DEPORTES",MUTV
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",Barça TV
+
+#EXTINF:-1 tvg-name="ES Real Madrid TV" tvg-logo="http://1.bp.blogspot.com/-Jf9PjwEmDM4/UbnzKQIBKJI/AAAAAAAAEmQ/gLox-EFiI7I/s320/REAL+MADRD.png" group-title="DEPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png" group-title="DEPORTES",Canal+ Deportes
+
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.adslzone.tv/app/uploads/2010/09/canalplus_liga_hd.png" group-title="DEPORTES",Canal+ Deportes 2
+
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatvhd.png" group-title="LOCALES",Gala TV 2
 http://mxl-iptv.cf/beta_1/E14B1D1165E64080D5ACC7ADC8CDD91DA95C64E4/0AACBAFF5114DD842CE5C4134294C16E08AFCFC3/109/PROFILE03/mxl.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV 3
