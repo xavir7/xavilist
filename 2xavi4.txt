@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://latinchannel.tv:8000/live/Yerik/valentina12/167.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://alphastreams.live:8080/live/testlist/testlist/527.ts
+http://latinchannel.tv:8000/live/Yerik/valentina12/167.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
-
+http://alphastreams.live:8080/live/testlist/testlist/527.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
 
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Chivas TV
@@ -13,5 +13,7 @@ http://alphastreams.live:8080/live/testlist/testlist/527.ts
 
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 1
 http://cloudtv.videocdn.scaleengine.net/cloudtv-live/play/cloudtv4/playlist.m3u8
-#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 1
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
 http://latinchannel.tv:8000/live/Yerik/valentina12/1449.ts
+#EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 3
+http://latinchannel.tv:8000/live/Yerik/valentina12/1449.m3u8
