@@ -570,8 +570,6 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 http://stream.ssh101.com:1935/live/TVCDEP/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
 http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=ip%3D189.212.225.137~st%3D1466584819~exp%3D1466584939~acl%3D%2F*~data%3D1466584939~hmac%3D47714db692ce8602a5abdc8206f5dc8551d78568849769d6c1d7be35fb634ad1
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="http://4.bp.blogspot.com/-YD0YgEE4Kkw/VkDwhI1W9LI/AAAAAAAABb0/wMdnw0TJiTY/s1600/454.png" group-title="DEPORTES",Bein Sports Ñ
-
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
 
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",Bein Sports
