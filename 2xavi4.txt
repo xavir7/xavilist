@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca Deportes
+http://latinchannel.tv:8000/live/Yerik/valentina12/469.m3u8
+#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca Deportes
 http://198.144.148.113:9850/live/sogungbe56@gmail.com/yemisi56/825.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://latinchannel.tv:8000/live/Yerik/valentina12/167.ts
