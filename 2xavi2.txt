@@ -33,8 +33,8 @@ http://45.55.143.151:8081/live/sky97/Forotv/playlist.m3u8
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7HD.png",Azteca 7 HD
 
-#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca 7 MTY
-
+#EXTINF:-1 tvg-name="Azteca 7 MTY" group-title="LOCALES" tvg-logo="http://wefixmx.com/cgi-bin/Logos/azteca7.png",Azteca Deportes
+http://198.144.148.113:9850/live/sogungbe56@gmail.com/yemisi56/825.m3u8
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatv.png" group-title="LOCALES",Gala TV
 https://goo.gl/pMMj1L
 #EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://wefixmx.com/cgi-bin/Logos/galatvhd.png" group-title="LOCALES",Gala TV 2
