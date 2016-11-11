@@ -282,8 +282,8 @@ http://
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Golden" tvg-name="Golden" group-title="CINEMA" tvg-logo="golden-multi.png",Golden
 
-#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="golden.png" group-title="CINEMA",Golden HD1
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="golden.png" group-title="CINEMA",Golden HD2
+http://10.187.5.8/wp/ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" group-title="CINEMA" tvg-logo="golden-edge.png",Golden Edge
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?/PROFILE03-801/.ts
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" group-title="CINEMA" tvg-logo="http://wefixmx.com/cgi-bin/Logos/paramount.png",Paramount Channel
