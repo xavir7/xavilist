@@ -537,27 +537,27 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
-http://latinchannel.tv:8000/live/xavir/xavir77/167.m3u8
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/167.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
-http://latinchannel.tv:8000/live/xavir/xavir77/167.ts
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/167.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
-http://latinchannel.tv:8000/live/xavir/xavir77/469.m3u8
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/469.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvsports.net/i/directvsports/images/fb_directv_sports.png" group-title="DEPORTES",Sky Sports
-http://latinchannel.tv:8000/live/xavir/xavir77/469.ts
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/469.ts
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://laaficion.milenio.com/futbol/Llego-Chivas-TV_MILIMA20160521_0146_30.jpg" group-title="DEPORTES",Chivas TV *Solo días de partido*
-http://latinchannel.tv:8000/live/xavir/xavir77/415.m3u8
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/415.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://laaficion.milenio.com/futbol/Llego-Chivas-TV_MILIMA20160521_0146_30.jpg" group-title="DEPORTES",Chivas TV *Solo días de partido*
-http://latinchannel.tv:8000/live/xavir/xavir77/415.ts
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/415.ts
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://wefixmx.com/cgi-bin/Logos/utdn.png" group-title="DEPORTES",Planeta Futbol
 
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 1
 http://cloudtv.videocdn.scaleengine.net/cloudtv-live/play/cloudtv4/playlist.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 2
-http://latinchannel.tv:8000/live/xavir/xavir77/164.m3u8
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/164.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN USA" tvg-name="Univisión TDN USA" tvg-logo="http://vignette2.wikia.nocookie.net/primeradivisiondemexico/images/5/5c/Univision_tdn.png/revision/latest?cb=20130930004516&path-prefix=es" group-title="DEPORTES",Univision TDN USA 3
-http://latinchannel.tv:8000/live/xavir/xavir77/164.ts
+http://latinchannel.tv:8000/live/xavir/tigresporlaquinta/164.ts
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/tyc-sports.png" group-title="DEPORTES",TyC Deportes
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish1/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="http://wefixmx.com/cgi-bin/Logos/winsports.png" group-title="DEPORTES",Win Sports 
