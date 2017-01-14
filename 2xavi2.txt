@@ -536,14 +536,14 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3” group-title="DEPORTES" tvg-logo="foxsports3.png",Fox Sports 3 HD
 
-#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Tigres
-
-#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Tigres
-
-#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Tigres
-
-#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Tigres
-
+#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Rayados vs Chivas
+http://latinchannel.tv:8000/live/xavir/huikori7/469.m3u8
+#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Rayados vs Chivas
+http://latinchannel.tv:8000/live/xavir/huikori7/469.ts
+#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Atlas vs Tigres
+http://latinchannel.tv:8000/live/xavir/huikori7/470.m3u8
+#EXTINF:-1 tvg-id="Evento 1" tvg-name="Evento 1” group-title="DEPORTES" tvg-logo="https://s6.postimg.org/wa3blhnip/eventos.png",Atlas vs Tigres
+http://latinchannel.tv:8000/live/xavir/huikori7/470.ts
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico
 http://latinchannel.tv:8000/live/xavir/huikori7/167.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="DEPORTES",TDN Mexico 2
