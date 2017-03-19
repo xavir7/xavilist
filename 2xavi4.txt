@@ -880,7 +880,7 @@ http://latinchannel.tv:8000/live/playiptv/totalplay/165.m3u8
 #EXTINF:0 channelId="-1" tvg-logo="https://s6.postimg.org/mua4mfia9/ufc.png" group-title="Deportes" , UFC Network
 http://latinchannel.tv:8000/live/playiptv/totalplay/481.m3u8
 #EXTINF:0 channelId="407" tvg-logo="http://s6.postimg.org/px2oc55ch/image.png" group-title="Deportes" , Univision Deportes
-http://latinchannel.tv:8000/live/playiptv/totalplay/1449.m3u8
+http://cooltv.xyz:8081/live/finalvta/playlist.m3u8
 #EXTINF:0 channelId="407" tvg-logo="https://s6.postimg.org/opwwxl74h/Univision_tdn.png" group-title="Deportes" , Univisión TDN
 http://latinchannel.tv:8000/live/playiptv/totalplay/164.m3u8
 #EXTINF:0 channelId="407" tvg-logo="http://veratv.cdn.antel.net.uy/dynamic/content_images/6031/240/default.jpg" group-title="Deportes" tvg-shift="-2.00" ,Vtv
