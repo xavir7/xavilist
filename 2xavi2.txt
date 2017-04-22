@@ -873,6 +873,8 @@ http://latinchannel.tv:8000/live/srhomero/simpson/347.m3u8
 http://latinchannel.tv:8000/live/srhomero/simpson/187.m3u8
 #EXTINF:0 channelId="-1" tvg-logo="https://s6.postimg.org/6ylaj4rpt/tnd1.png" group-title="Deportes" , TDN Mexico
 http://latinchannel.tv:8000/live/srhomero/simpson/167.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="https://s6.postimg.org/6ylaj4rpt/tnd1.png" group-title="Deportes" , TDN Mexico
+http://live.tvplayerlatino.com/usuarios/src5/TDN/mexico/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS ARGENTINA" tvg-logo="http://latinchannel.tv:8000/img/1337.jpg" group-title="Deportes",TYC SPORTS ARGENTINA
 http://latinchannel.tv:8000/live/srhomero/simpson/1790.m3u8
 #EXTINF:0 channelId="-1" tvg-logo="https://s6.postimg.org/mua4mfia9/ufc.png" group-title="Deportes" , UFC Network
@@ -881,6 +883,8 @@ http://latinchannel.tv:8000/live/srhomero/simpson/165.m3u8
 http://latinchannel.tv:8000/live/srhomero/simpson/481.m3u8
 #EXTINF:0 channelId="407" tvg-logo="http://s6.postimg.org/px2oc55ch/image.png" group-title="Deportes" , Univision Deportes
 http://latinchannel.tv:8000/live/srhomero/simpson/1449.m3u8
+#EXTINF:0 channelId="407" tvg-logo="http://s6.postimg.org/px2oc55ch/image.png" group-title="Deportes" , Univision Deportes
+http://live.tvplayerlatino.com/usuarios/src5/UnivisionDeportes/mexico/playlist.m3u8
 #EXTINF:0 channelId="407" tvg-logo="https://s6.postimg.org/opwwxl74h/Univision_tdn.png" group-title="Deportes" , Univisión TDN
 http://latinchannel.tv:8000/live/srhomero/simpson/164.m3u8
 #EXTINF:0 channelId="407" tvg-logo="http://veratv.cdn.antel.net.uy/dynamic/content_images/6031/240/default.jpg" group-title="Deportes" tvg-shift="-2.00" ,Vtv
