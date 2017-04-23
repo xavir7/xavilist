@@ -1,6 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 channelId="-1" tvg-logo="https://s6.postimg.org/adfx5woy9/latinchanel_G.png" group-title="Infantiles", [COLOR blue][B]*INFANTIL TOTAL PLAY*[/B][/COLOR]
-http://?
+#EXTINF:-1 channelId="-1" tvg-logo="https://s6.postimg.org/adfx5woy9/latinchanel_G.png" group-title="Infantiles", [COLOR blue][B]Real Madrid vs Barcelona[/B][/COLOR]
+http://158.69.225.217:9000/live/sport_tkilla/EO02qGNKTO/75.ts
 #EXTINF:0 channelId="321" tvg-logo="https://s31.postimg.org/caqppo3jv/bomerang.png" group-title="Infantiles" tvg-shift="0.00" , Boomerang
 http://latinchannel.tv:8000/live/srhomero/simpson/52.m3u8
 #EXTINF:0 channelId="40" tvg-logo="https://s32.postimg.org/auoo8ybut/Cartoon_Network.png" group-title="Infantiles" tvg-shift="0.00" , Cartoon Network
